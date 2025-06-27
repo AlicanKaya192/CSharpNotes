@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\LocalFunctions\LocalFunctions\bin\Debug\LocalFunctions.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\LocalFunctions\LocalFunctions\bin\Debug\LocalFunctions.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\LocalFunctions\LocalFunctions\bin\Debug\LocalFunctions.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\LocalFunctions\LocalFunctions\obj\Debug\LocalFunctions.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\LocalFunctions\LocalFunctions\obj\Debug\LocalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\LocalFunctions\LocalFunctions\obj\Debug\LocalFunctions.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\LocalFunctions\LocalFunctions\obj\Debug\LocalFunctions.pdb

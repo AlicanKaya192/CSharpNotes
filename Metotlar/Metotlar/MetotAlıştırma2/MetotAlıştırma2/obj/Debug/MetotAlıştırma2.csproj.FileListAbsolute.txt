@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotAlıştırma2\MetotAlıştırma2\bin\Debug\MetotAlıştırma2.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotAlıştırma2\MetotAlıştırma2\bin\Debug\MetotAlıştırma2.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotAlıştırma2\MetotAlıştırma2\bin\Debug\MetotAlıştırma2.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotAlıştırma2\MetotAlıştırma2\obj\Debug\MetotAlıştırma2.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotAlıştırma2\MetotAlıştırma2\obj\Debug\MetotAlıştırma2.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotAlıştırma2\MetotAlıştırma2\obj\Debug\MetotAlıştırma2.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotAlıştırma2\MetotAlıştırma2\obj\Debug\MetotAlıştırma2.pdb

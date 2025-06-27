@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MatematikseLIslemler\MatematikseLIslemler\bin\Debug\MatematikseLIslemler.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MatematikseLIslemler\MatematikseLIslemler\bin\Debug\MatematikseLIslemler.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MatematikseLIslemler\MatematikseLIslemler\bin\Debug\MatematikseLIslemler.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MatematikseLIslemler\MatematikseLIslemler\obj\Debug\MatematikseLIslemler.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MatematikseLIslemler\MatematikseLIslemler\obj\Debug\MatematikseLIslemler.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MatematikseLIslemler\MatematikseLIslemler\obj\Debug\MatematikseLIslemler.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MatematikseLIslemler\MatematikseLIslemler\obj\Debug\MatematikseLIslemler.pdb
