@@ -1,0 +1,12 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.Diziler2.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Diziler\Diziler\Diziler\obj\Debug\Diziler.ForEachDongusucs.resources

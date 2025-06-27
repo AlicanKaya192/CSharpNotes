@@ -1,0 +1,17 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\bin\Debug\Degiskenler_String.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Degiskenler_Int.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Degiskenler_Int2.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Degiskenler_Islem3.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Degiskenler_Double4.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Degiskenler_OgrenciSinavNotHesapla.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Degiskenler_Char.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Degiskenler_String\Degiskenler_String\obj\Debug\Degiskenler_String.Sinema_Bufe_Satis.resources
