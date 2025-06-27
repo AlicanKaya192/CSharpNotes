@@ -1,0 +1,11 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.GeriyeDegerDonenMetotlar.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Metotlar\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

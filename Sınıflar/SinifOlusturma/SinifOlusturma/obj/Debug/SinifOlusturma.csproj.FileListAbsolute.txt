@@ -1,0 +1,12 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\bin\Debug\SinifOlusturma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\bin\Debug\SinifOlusturma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\bin\Debug\SinifOlusturma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.Form2.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Sınıflar\SinifOlusturma\SinifOlusturma\obj\Debug\SinifOlusturma.exe.config
