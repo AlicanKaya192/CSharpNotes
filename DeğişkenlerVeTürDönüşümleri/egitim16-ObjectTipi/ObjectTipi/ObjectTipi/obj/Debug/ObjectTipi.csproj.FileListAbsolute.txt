@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim16-ObjectTipi\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim16-ObjectTipi\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim16-ObjectTipi\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim16-ObjectTipi\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim16-ObjectTipi\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim16-ObjectTipi\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim16-ObjectTipi\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.pdb

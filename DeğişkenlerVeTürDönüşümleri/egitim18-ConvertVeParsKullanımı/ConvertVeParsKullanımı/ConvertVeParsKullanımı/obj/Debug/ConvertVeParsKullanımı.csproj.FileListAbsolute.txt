@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim18-ConvertVeParsKullanımı\ConvertVeParsKullanımı\ConvertVeParsKullanımı\bin\Debug\ConvertVeParsKullanımı.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim18-ConvertVeParsKullanımı\ConvertVeParsKullanımı\ConvertVeParsKullanımı\bin\Debug\ConvertVeParsKullanımı.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim18-ConvertVeParsKullanımı\ConvertVeParsKullanımı\ConvertVeParsKullanımı\bin\Debug\ConvertVeParsKullanımı.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim18-ConvertVeParsKullanımı\ConvertVeParsKullanımı\ConvertVeParsKullanımı\obj\Debug\ConvertVeParsKullanımı.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim18-ConvertVeParsKullanımı\ConvertVeParsKullanımı\ConvertVeParsKullanımı\obj\Debug\ConvertVeParsKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim18-ConvertVeParsKullanımı\ConvertVeParsKullanımı\ConvertVeParsKullanımı\obj\Debug\ConvertVeParsKullanımı.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim18-ConvertVeParsKullanımı\ConvertVeParsKullanımı\ConvertVeParsKullanımı\obj\Debug\ConvertVeParsKullanımı.pdb

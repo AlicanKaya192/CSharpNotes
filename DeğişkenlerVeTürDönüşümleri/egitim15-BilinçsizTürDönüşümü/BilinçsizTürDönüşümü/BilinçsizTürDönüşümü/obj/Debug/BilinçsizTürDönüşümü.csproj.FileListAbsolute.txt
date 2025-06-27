@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim14-BilinçliTürDönüşümü\BilinçsizTürDönüşümü\BilinçsizTürDönüşümü\bin\Debug\BilinçsizTürDönüşümü.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim14-BilinçliTürDönüşümü\BilinçsizTürDönüşümü\BilinçsizTürDönüşümü\bin\Debug\BilinçsizTürDönüşümü.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim14-BilinçliTürDönüşümü\BilinçsizTürDönüşümü\BilinçsizTürDönüşümü\bin\Debug\BilinçsizTürDönüşümü.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim14-BilinçliTürDönüşümü\BilinçsizTürDönüşümü\BilinçsizTürDönüşümü\obj\Debug\BilinçsizTürDönüşümü.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim14-BilinçliTürDönüşümü\BilinçsizTürDönüşümü\BilinçsizTürDönüşümü\obj\Debug\BilinçsizTürDönüşümü.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim14-BilinçliTürDönüşümü\BilinçsizTürDönüşümü\BilinçsizTürDönüşümü\obj\Debug\BilinçsizTürDönüşümü.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim14-BilinçliTürDönüşümü\BilinçsizTürDönüşümü\BilinçsizTürDönüşümü\obj\Debug\BilinçsizTürDönüşümü.pdb
