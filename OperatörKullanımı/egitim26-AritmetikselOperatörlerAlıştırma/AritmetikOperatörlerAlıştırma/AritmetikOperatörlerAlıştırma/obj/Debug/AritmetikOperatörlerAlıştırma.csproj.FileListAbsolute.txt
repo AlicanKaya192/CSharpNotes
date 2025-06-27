@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim26-AritmetikselOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\bin\Debug\AritmetikOperatörlerAlıştırma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim26-AritmetikselOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\bin\Debug\AritmetikOperatörlerAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim26-AritmetikselOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\bin\Debug\AritmetikOperatörlerAlıştırma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim26-AritmetikselOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\obj\Debug\AritmetikOperatörlerAlıştırma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim26-AritmetikselOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\obj\Debug\AritmetikOperatörlerAlıştırma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim26-AritmetikselOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\obj\Debug\AritmetikOperatörlerAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim26-AritmetikselOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\AritmetikOperatörlerAlıştırma\obj\Debug\AritmetikOperatörlerAlıştırma.pdb

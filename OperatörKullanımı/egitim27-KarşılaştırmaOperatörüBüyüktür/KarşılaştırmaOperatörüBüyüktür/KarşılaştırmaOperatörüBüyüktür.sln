@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarşılaştırmaOperatörüBüyüktür", "KarşılaştırmaOperatörüBüyüktür\KarşılaştırmaOperatörüBüyüktür.csproj", "{94138018-3B44-472A-9D57-59AF4ABC2096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94138018-3B44-472A-9D57-59AF4ABC2096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94138018-3B44-472A-9D57-59AF4ABC2096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94138018-3B44-472A-9D57-59AF4ABC2096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94138018-3B44-472A-9D57-59AF4ABC2096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFC78A6-F867-45E7-96C8-B2A2D07D4479}
+	EndGlobalSection
+EndGlobal

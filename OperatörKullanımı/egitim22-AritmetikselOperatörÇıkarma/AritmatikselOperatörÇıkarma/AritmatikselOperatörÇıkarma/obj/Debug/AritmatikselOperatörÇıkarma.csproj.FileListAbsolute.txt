@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim22-AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\obj\Debug\AritmatikselOperatörÇıkarma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim22-AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\obj\Debug\AritmatikselOperatörÇıkarma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim22-AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\bin\Debug\AritmatikselOperatörÇıkarma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim22-AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\bin\Debug\AritmatikselOperatörÇıkarma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim22-AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\bin\Debug\AritmatikselOperatörÇıkarma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim22-AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\obj\Debug\AritmatikselOperatörÇıkarma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim22-AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\AritmatikselOperatörÇıkarma\obj\Debug\AritmatikselOperatörÇıkarma.pdb
