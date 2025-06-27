@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalıtımNedir", "KalıtımNedir\KalıtımNedir.csproj", "{18CA81B4-AEAB-4B75-9631-36AD21F3624C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18CA81B4-AEAB-4B75-9631-36AD21F3624C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CA81B4-AEAB-4B75-9631-36AD21F3624C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CA81B4-AEAB-4B75-9631-36AD21F3624C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CA81B4-AEAB-4B75-9631-36AD21F3624C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B96BC80-3903-4583-A745-F2E75891C47E}
+	EndGlobalSection
+EndGlobal

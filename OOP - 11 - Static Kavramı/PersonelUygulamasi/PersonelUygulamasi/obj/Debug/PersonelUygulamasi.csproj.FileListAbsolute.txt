@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\PersonelUygulamasi\PersonelUygulamasi\bin\Debug\PersonelUygulamasi.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\PersonelUygulamasi\PersonelUygulamasi\bin\Debug\PersonelUygulamasi.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\PersonelUygulamasi\PersonelUygulamasi\bin\Debug\PersonelUygulamasi.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\PersonelUygulamasi\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\PersonelUygulamasi\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\PersonelUygulamasi\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\PersonelUygulamasi\PersonelUygulamasi\obj\Debug\PersonelUygulamasi.pdb

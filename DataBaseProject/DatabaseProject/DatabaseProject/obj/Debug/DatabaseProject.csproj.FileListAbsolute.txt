@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\DataBaseProject\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\DataBaseProject\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\DataBaseProject\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\DataBaseProject\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\DataBaseProject\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\DataBaseProject\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\DataBaseProject\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb

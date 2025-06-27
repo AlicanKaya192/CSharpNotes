@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\GenelAlistirma\GenelAlistirma\bin\Debug\GenelAlistirma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\GenelAlistirma\GenelAlistirma\obj\Debug\GenelAlistirma.pdb

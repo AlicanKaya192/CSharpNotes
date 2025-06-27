@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 12 - InnerType\InnerType\InnerType\bin\Debug\InnerType.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 12 - InnerType\InnerType\InnerType\bin\Debug\InnerType.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 12 - InnerType\InnerType\InnerType\bin\Debug\InnerType.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 12 - InnerType\InnerType\InnerType\obj\Debug\InnerType.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 12 - InnerType\InnerType\InnerType\obj\Debug\InnerType.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 12 - InnerType\InnerType\InnerType\obj\Debug\InnerType.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 12 - InnerType\InnerType\InnerType\obj\Debug\InnerType.pdb

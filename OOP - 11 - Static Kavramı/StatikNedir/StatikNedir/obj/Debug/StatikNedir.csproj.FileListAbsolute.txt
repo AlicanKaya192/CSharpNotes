@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\StatikNedir\StatikNedir\bin\Debug\StatikNedir.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\StatikNedir\StatikNedir\bin\Debug\StatikNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\StatikNedir\StatikNedir\bin\Debug\StatikNedir.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\StatikNedir\StatikNedir\obj\Debug\StatikNedir.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\StatikNedir\StatikNedir\obj\Debug\StatikNedir.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\StatikNedir\StatikNedir\obj\Debug\StatikNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 11 - Static Kavramı\StatikNedir\StatikNedir\obj\Debug\StatikNedir.pdb
