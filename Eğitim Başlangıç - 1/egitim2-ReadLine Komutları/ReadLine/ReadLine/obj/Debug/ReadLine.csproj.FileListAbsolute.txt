@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim2-ReadLine Komutları\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim2-ReadLine Komutları\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim2-ReadLine Komutları\ReadLine\ReadLine\bin\Debug\ReadLine.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim2-ReadLine Komutları\ReadLine\ReadLine\bin\Debug\ReadLine.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim2-ReadLine Komutları\ReadLine\ReadLine\bin\Debug\ReadLine.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim2-ReadLine Komutları\ReadLine\ReadLine\obj\Debug\ReadLine.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim2-ReadLine Komutları\ReadLine\ReadLine\obj\Debug\ReadLine.pdb

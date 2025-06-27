@@ -1,0 +1,14 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1\udemyegitim\udemyegitim\obj\Debug\udemyegitim.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1\udemyegitim\udemyegitim\obj\Debug\udemyegitim.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1\udemyegitim\udemyegitim\bin\Debug\udemyegitim.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1\udemyegitim\udemyegitim\bin\Debug\udemyegitim.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1\udemyegitim\udemyegitim\bin\Debug\udemyegitim.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1\udemyegitim\udemyegitim\obj\Debug\udemyegitim.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1\udemyegitim\udemyegitim\obj\Debug\udemyegitim.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1-WriteLine Komutları\udemyegitim\udemyegitim\obj\Debug\udemyegitim.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1-WriteLine Komutları\udemyegitim\udemyegitim\obj\Debug\udemyegitim.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1-WriteLine Komutları\udemyegitim\udemyegitim\obj\Debug\udemyegitim.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1-WriteLine Komutları\udemyegitim\udemyegitim\obj\Debug\udemyegitim.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1-WriteLine Komutları\udemyegitim\udemyegitim\bin\Debug\udemyegitim.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1-WriteLine Komutları\udemyegitim\udemyegitim\bin\Debug\udemyegitim.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim1-WriteLine Komutları\udemyegitim\udemyegitim\bin\Debug\udemyegitim.pdb

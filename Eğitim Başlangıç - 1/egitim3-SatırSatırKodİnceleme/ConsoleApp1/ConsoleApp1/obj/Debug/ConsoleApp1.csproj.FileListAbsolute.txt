@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim3-SatırSatırKodİnceleme\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim3-SatırSatırKodİnceleme\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim3-SatırSatırKodİnceleme\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim3-SatırSatırKodİnceleme\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim3-SatırSatırKodİnceleme\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim3-SatırSatırKodİnceleme\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim3-SatırSatırKodİnceleme\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
