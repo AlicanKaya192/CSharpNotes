@@ -1,0 +1,13 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\bin\Debug\EkstraAraclar.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\bin\Debug\EkstraAraclar.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\bin\Debug\EkstraAraclar.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.MenuStrip.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.Chart_Grafik.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Ekstra Araçlar Form\EkstraAraclar\EkstraAraclar\obj\Debug\EkstraAraclar.Extra_Araclar.resources

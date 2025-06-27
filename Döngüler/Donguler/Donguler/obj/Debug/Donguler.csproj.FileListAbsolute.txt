@@ -1,0 +1,17 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.Donguler_Pratik.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.Donguler_While.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.Donguler_Do_while.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.Timer.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.TimerOrnek2.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.ProgressBarKullanimi.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Döngüler\Donguler\Donguler\obj\Debug\Donguler.PastaPisirmeSureci.resources
