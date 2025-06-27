@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim4-DegiskenNedir\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim4-DegiskenNedir\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim4-DegiskenNedir\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim4-DegiskenNedir\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim4-DegiskenNedir\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim4-DegiskenNedir\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim4-DegiskenNedir\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.pdb

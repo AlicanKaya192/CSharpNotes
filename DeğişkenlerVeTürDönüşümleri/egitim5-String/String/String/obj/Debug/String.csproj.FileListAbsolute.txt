@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim5-String\String\String\bin\Debug\String.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim5-String\String\String\bin\Debug\String.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim5-String\String\String\bin\Debug\String.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim5-String\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim5-String\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim5-String\String\String\obj\Debug\String.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim5-String\String\String\obj\Debug\String.pdb

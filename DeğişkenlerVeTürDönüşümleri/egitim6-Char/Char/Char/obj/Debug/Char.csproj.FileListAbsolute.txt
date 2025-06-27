@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim6-Char\Char\Char\obj\Debug\Char.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim6-Char\Char\Char\obj\Debug\Char.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim6-Char\Char\Char\bin\Debug\Char.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim6-Char\Char\Char\bin\Debug\Char.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim6-Char\Char\Char\bin\Debug\Char.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim6-Char\Char\Char\obj\Debug\Char.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim6-Char\Char\Char\obj\Debug\Char.pdb

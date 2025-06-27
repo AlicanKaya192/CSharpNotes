@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim7-ByteVeInt\ByteVeInt\ByteVeInt\bin\Debug\ByteVeInt.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim7-ByteVeInt\ByteVeInt\ByteVeInt\bin\Debug\ByteVeInt.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim7-ByteVeInt\ByteVeInt\ByteVeInt\bin\Debug\ByteVeInt.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim7-ByteVeInt\ByteVeInt\ByteVeInt\obj\Debug\ByteVeInt.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim7-ByteVeInt\ByteVeInt\ByteVeInt\obj\Debug\ByteVeInt.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim7-ByteVeInt\ByteVeInt\ByteVeInt\obj\Debug\ByteVeInt.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim7-ByteVeInt\ByteVeInt\ByteVeInt\obj\Debug\ByteVeInt.pdb

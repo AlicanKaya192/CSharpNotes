@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim8-DoubleDecimalFloat\DoubleDecimalFloat\DoubleDecimalFloat\bin\Debug\DoubleDecimalFloat.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim8-DoubleDecimalFloat\DoubleDecimalFloat\DoubleDecimalFloat\bin\Debug\DoubleDecimalFloat.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim8-DoubleDecimalFloat\DoubleDecimalFloat\DoubleDecimalFloat\bin\Debug\DoubleDecimalFloat.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim8-DoubleDecimalFloat\DoubleDecimalFloat\DoubleDecimalFloat\obj\Debug\DoubleDecimalFloat.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim8-DoubleDecimalFloat\DoubleDecimalFloat\DoubleDecimalFloat\obj\Debug\DoubleDecimalFloat.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim8-DoubleDecimalFloat\DoubleDecimalFloat\DoubleDecimalFloat\obj\Debug\DoubleDecimalFloat.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim8-DoubleDecimalFloat\DoubleDecimalFloat\DoubleDecimalFloat\obj\Debug\DoubleDecimalFloat.pdb
