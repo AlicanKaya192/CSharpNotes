@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\SwitchKullanımı\SwitchAlıştırma\bin\Debug\SwitchAlıştırma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\SwitchKullanımı\SwitchAlıştırma\bin\Debug\SwitchAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\SwitchKullanımı\SwitchAlıştırma\bin\Debug\SwitchAlıştırma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\SwitchKullanımı\SwitchAlıştırma\obj\Debug\SwitchAlıştırma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\SwitchKullanımı\SwitchAlıştırma\obj\Debug\SwitchAlıştırma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\SwitchKullanımı\SwitchAlıştırma\obj\Debug\SwitchAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\SwitchKullanımı\SwitchAlıştırma\obj\Debug\SwitchAlıştırma.pdb

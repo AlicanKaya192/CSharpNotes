@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\KoşulİfadeleriAlıştırma1\KoşulİfadeleriAlıştırma4\bin\Debug\KoşulİfadeleriAlıştırma4.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\KoşulİfadeleriAlıştırma1\KoşulİfadeleriAlıştırma4\bin\Debug\KoşulİfadeleriAlıştırma4.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\KoşulİfadeleriAlıştırma1\KoşulİfadeleriAlıştırma4\bin\Debug\KoşulİfadeleriAlıştırma4.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\KoşulİfadeleriAlıştırma1\KoşulİfadeleriAlıştırma4\obj\Debug\KoşulİfadeleriAlıştırma4.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\KoşulİfadeleriAlıştırma1\KoşulİfadeleriAlıştırma4\obj\Debug\KoşulİfadeleriAlıştırma4.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\KoşulİfadeleriAlıştırma1\KoşulİfadeleriAlıştırma4\obj\Debug\KoşulİfadeleriAlıştırma4.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\Switch Kullanımı\KoşulİfadeleriAlıştırma1\KoşulİfadeleriAlıştırma4\obj\Debug\KoşulİfadeleriAlıştırma4.pdb
