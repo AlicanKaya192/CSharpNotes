@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsullemeAlistirma\KapsullemeAlistirma\bin\Debug\KapsullemeAlistirma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsullemeAlistirma\KapsullemeAlistirma\bin\Debug\KapsullemeAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsullemeAlistirma\KapsullemeAlistirma\bin\Debug\KapsullemeAlistirma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsullemeAlistirma\KapsullemeAlistirma\obj\Debug\KapsullemeAlistirma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsullemeAlistirma\KapsullemeAlistirma\obj\Debug\KapsullemeAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsullemeAlistirma\KapsullemeAlistirma\obj\Debug\KapsullemeAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsullemeAlistirma\KapsullemeAlistirma\obj\Debug\KapsullemeAlistirma.pdb

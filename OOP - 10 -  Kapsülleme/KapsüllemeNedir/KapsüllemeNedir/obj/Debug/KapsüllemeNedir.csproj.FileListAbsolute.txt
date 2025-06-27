@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsüllemeNedir\KapsüllemeNedir\bin\Debug\KapsüllemeNedir.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsüllemeNedir\KapsüllemeNedir\bin\Debug\KapsüllemeNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsüllemeNedir\KapsüllemeNedir\bin\Debug\KapsüllemeNedir.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsüllemeNedir\KapsüllemeNedir\obj\Debug\KapsüllemeNedir.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsüllemeNedir\KapsüllemeNedir\obj\Debug\KapsüllemeNedir.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsüllemeNedir\KapsüllemeNedir\obj\Debug\KapsüllemeNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 10 -  Kapsülleme\KapsüllemeNedir\KapsüllemeNedir\obj\Debug\KapsüllemeNedir.pdb

@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\OOPSınıflarAlıştırma\OOPSınıflarAlıştırma\bin\Debug\OOPSınıflarAlıştırma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\OOPSınıflarAlıştırma\OOPSınıflarAlıştırma\bin\Debug\OOPSınıflarAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\OOPSınıflarAlıştırma\OOPSınıflarAlıştırma\bin\Debug\OOPSınıflarAlıştırma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\OOPSınıflarAlıştırma\OOPSınıflarAlıştırma\obj\Debug\OOPSınıflarAlıştırma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\OOPSınıflarAlıştırma\OOPSınıflarAlıştırma\obj\Debug\OOPSınıflarAlıştırma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\OOPSınıflarAlıştırma\OOPSınıflarAlıştırma\obj\Debug\OOPSınıflarAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\OOPSınıflarAlıştırma\OOPSınıflarAlıştırma\obj\Debug\OOPSınıflarAlıştırma.pdb

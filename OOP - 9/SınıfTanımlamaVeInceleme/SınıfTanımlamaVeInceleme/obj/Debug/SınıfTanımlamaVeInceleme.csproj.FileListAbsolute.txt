@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\SınıfTanımlamaVeInceleme\SınıfTanımlamaVeInceleme\bin\Debug\SınıfTanımlamaVeInceleme.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\SınıfTanımlamaVeInceleme\SınıfTanımlamaVeInceleme\bin\Debug\SınıfTanımlamaVeInceleme.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\SınıfTanımlamaVeInceleme\SınıfTanımlamaVeInceleme\bin\Debug\SınıfTanımlamaVeInceleme.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\SınıfTanımlamaVeInceleme\SınıfTanımlamaVeInceleme\obj\Debug\SınıfTanımlamaVeInceleme.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\SınıfTanımlamaVeInceleme\SınıfTanımlamaVeInceleme\obj\Debug\SınıfTanımlamaVeInceleme.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\SınıfTanımlamaVeInceleme\SınıfTanımlamaVeInceleme\obj\Debug\SınıfTanımlamaVeInceleme.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\OOP - 9\SınıfTanımlamaVeInceleme\SınıfTanımlamaVeInceleme\obj\Debug\SınıfTanımlamaVeInceleme.pdb

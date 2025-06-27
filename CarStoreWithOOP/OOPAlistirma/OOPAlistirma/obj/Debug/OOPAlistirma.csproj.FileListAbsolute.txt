@@ -1,0 +1,14 @@
+C:\Users\alica\OneDrive\Masaüstü\alıştırma OOP\OOPAlistirma\OOPAlistirma\bin\Debug\OOPAlistirma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\alıştırma OOP\OOPAlistirma\OOPAlistirma\bin\Debug\OOPAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\alıştırma OOP\OOPAlistirma\OOPAlistirma\bin\Debug\OOPAlistirma.pdb
+C:\Users\alica\OneDrive\Masaüstü\alıştırma OOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\alıştırma OOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\alıştırma OOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\alıştırma OOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\CarStoreWithOOP\OOPAlistirma\OOPAlistirma\bin\Debug\OOPAlistirma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\CarStoreWithOOP\OOPAlistirma\OOPAlistirma\bin\Debug\OOPAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\CarStoreWithOOP\OOPAlistirma\OOPAlistirma\bin\Debug\OOPAlistirma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\CarStoreWithOOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\CarStoreWithOOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\CarStoreWithOOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\CarStoreWithOOP\OOPAlistirma\OOPAlistirma\obj\Debug\OOPAlistirma.pdb
