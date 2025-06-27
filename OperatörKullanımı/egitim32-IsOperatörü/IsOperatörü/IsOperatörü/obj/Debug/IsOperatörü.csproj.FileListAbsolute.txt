@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim32-IsOperatörü\IsOperatörü\IsOperatörü\bin\Debug\IsOperatörü.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim32-IsOperatörü\IsOperatörü\IsOperatörü\bin\Debug\IsOperatörü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim32-IsOperatörü\IsOperatörü\IsOperatörü\bin\Debug\IsOperatörü.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim32-IsOperatörü\IsOperatörü\IsOperatörü\obj\Debug\IsOperatörü.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim32-IsOperatörü\IsOperatörü\IsOperatörü\obj\Debug\IsOperatörü.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim32-IsOperatörü\IsOperatörü\IsOperatörü\obj\Debug\IsOperatörü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim32-IsOperatörü\IsOperatörü\IsOperatörü\obj\Debug\IsOperatörü.pdb

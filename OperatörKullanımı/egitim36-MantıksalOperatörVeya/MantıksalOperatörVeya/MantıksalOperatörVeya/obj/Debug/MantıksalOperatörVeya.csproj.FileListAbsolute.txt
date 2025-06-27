@@ -1,0 +1,2 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim36-MantıksalOperatörVeya\MantıksalOperatörVeya\MantıksalOperatörVeya\obj\Debug\MantıksalOperatörVeya.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim36-MantıksalOperatörVeya\MantıksalOperatörVeya\MantıksalOperatörVeya\obj\Debug\MantıksalOperatörVeya.csproj.CoreCompileInputs.cache

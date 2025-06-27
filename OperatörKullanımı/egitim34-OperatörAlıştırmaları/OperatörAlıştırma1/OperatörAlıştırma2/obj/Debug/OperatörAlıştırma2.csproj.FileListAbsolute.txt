@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim34-OperatörAlıştırmaları\OperatörAlıştırma1\OperatörAlıştırma2\bin\Debug\OperatörAlıştırma2.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim34-OperatörAlıştırmaları\OperatörAlıştırma1\OperatörAlıştırma2\bin\Debug\OperatörAlıştırma2.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim34-OperatörAlıştırmaları\OperatörAlıştırma1\OperatörAlıştırma2\bin\Debug\OperatörAlıştırma2.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim34-OperatörAlıştırmaları\OperatörAlıştırma1\OperatörAlıştırma2\obj\Debug\OperatörAlıştırma2.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim34-OperatörAlıştırmaları\OperatörAlıştırma1\OperatörAlıştırma2\obj\Debug\OperatörAlıştırma2.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim34-OperatörAlıştırmaları\OperatörAlıştırma1\OperatörAlıştırma2\obj\Debug\OperatörAlıştırma2.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\egitim34-OperatörAlıştırmaları\OperatörAlıştırma1\OperatörAlıştırma2\obj\Debug\OperatörAlıştırma2.pdb
