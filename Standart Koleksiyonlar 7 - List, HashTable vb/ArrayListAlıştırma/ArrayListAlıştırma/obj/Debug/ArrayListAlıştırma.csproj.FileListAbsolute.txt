@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\ArrayListAlıştırma\ArrayListAlıştırma\bin\Debug\ArrayListAlıştırma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\ArrayListAlıştırma\ArrayListAlıştırma\bin\Debug\ArrayListAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\ArrayListAlıştırma\ArrayListAlıştırma\bin\Debug\ArrayListAlıştırma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\ArrayListAlıştırma\ArrayListAlıştırma\obj\Debug\ArrayListAlıştırma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\ArrayListAlıştırma\ArrayListAlıştırma\obj\Debug\ArrayListAlıştırma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\ArrayListAlıştırma\ArrayListAlıştırma\obj\Debug\ArrayListAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\ArrayListAlıştırma\ArrayListAlıştırma\obj\Debug\ArrayListAlıştırma.pdb

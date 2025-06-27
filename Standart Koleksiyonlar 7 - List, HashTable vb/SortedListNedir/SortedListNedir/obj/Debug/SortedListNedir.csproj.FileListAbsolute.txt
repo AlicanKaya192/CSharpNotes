@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\SortedListNedir\SortedListNedir\bin\Debug\SortedListNedir.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\SortedListNedir\SortedListNedir\bin\Debug\SortedListNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\SortedListNedir\SortedListNedir\bin\Debug\SortedListNedir.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\SortedListNedir\SortedListNedir\obj\Debug\SortedListNedir.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\SortedListNedir\SortedListNedir\obj\Debug\SortedListNedir.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\SortedListNedir\SortedListNedir\obj\Debug\SortedListNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Standart Koleksiyonlar 7 - List, HashTable vb\SortedListNedir\SortedListNedir\obj\Debug\SortedListNedir.pdb
