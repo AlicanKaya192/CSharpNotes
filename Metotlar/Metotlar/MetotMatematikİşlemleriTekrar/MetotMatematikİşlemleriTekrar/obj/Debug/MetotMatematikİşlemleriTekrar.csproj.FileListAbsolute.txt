@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotMatematikİşlemleriTekrar\MetotMatematikİşlemleriTekrar\bin\Debug\MetotMatematikİşlemleriTekrar.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotMatematikİşlemleriTekrar\MetotMatematikİşlemleriTekrar\bin\Debug\MetotMatematikİşlemleriTekrar.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotMatematikİşlemleriTekrar\MetotMatematikİşlemleriTekrar\bin\Debug\MetotMatematikİşlemleriTekrar.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotMatematikİşlemleriTekrar\MetotMatematikİşlemleriTekrar\obj\Debug\MetotMatematikİşlemleriTekrar.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotMatematikİşlemleriTekrar\MetotMatematikİşlemleriTekrar\obj\Debug\MetotMatematikİşlemleriTekrar.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotMatematikİşlemleriTekrar\MetotMatematikİşlemleriTekrar\obj\Debug\MetotMatematikİşlemleriTekrar.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\MetotMatematikİşlemleriTekrar\MetotMatematikİşlemleriTekrar\obj\Debug\MetotMatematikİşlemleriTekrar.pdb

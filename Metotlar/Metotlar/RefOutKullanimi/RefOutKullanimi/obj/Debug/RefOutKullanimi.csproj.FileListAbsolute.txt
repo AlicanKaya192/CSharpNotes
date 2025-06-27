@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\RefOutKullanimi\RefOutKullanimi\bin\Debug\RefOutKullanimi.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\RefOutKullanimi\RefOutKullanimi\bin\Debug\RefOutKullanimi.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\RefOutKullanimi\RefOutKullanimi\bin\Debug\RefOutKullanimi.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\RefOutKullanimi\RefOutKullanimi\obj\Debug\RefOutKullanimi.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\RefOutKullanimi\RefOutKullanimi\obj\Debug\RefOutKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\RefOutKullanimi\RefOutKullanimi\obj\Debug\RefOutKullanimi.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Metotlar 8\RefOutKullanimi\RefOutKullanimi\obj\Debug\RefOutKullanimi.pdb
