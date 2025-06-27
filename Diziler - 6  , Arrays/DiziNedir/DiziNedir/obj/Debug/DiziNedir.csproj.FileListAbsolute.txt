@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziNedir\DiziNedir\bin\Debug\DiziNedir.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziNedir\DiziNedir\bin\Debug\DiziNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziNedir\DiziNedir\bin\Debug\DiziNedir.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziNedir\DiziNedir\obj\Debug\DiziNedir.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziNedir\DiziNedir\obj\Debug\DiziNedir.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziNedir\DiziNedir\obj\Debug\DiziNedir.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziNedir\DiziNedir\obj\Debug\DiziNedir.pdb

@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziÖrnekKullanımları\DiziÖrnekKullanımları\obj\Debug\DiziÖrnekKullanımları.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziÖrnekKullanımları\DiziÖrnekKullanımları\obj\Debug\DiziÖrnekKullanımları.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziÖrnekKullanımları\DiziÖrnekKullanımları\bin\Debug\DiziÖrnekKullanımları.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziÖrnekKullanımları\DiziÖrnekKullanımları\bin\Debug\DiziÖrnekKullanımları.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziÖrnekKullanımları\DiziÖrnekKullanımları\bin\Debug\DiziÖrnekKullanımları.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziÖrnekKullanımları\DiziÖrnekKullanımları\obj\Debug\DiziÖrnekKullanımları.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Diziler - 6  , Arrays\DiziÖrnekKullanımları\DiziÖrnekKullanımları\obj\Debug\DiziÖrnekKullanımları.pdb
