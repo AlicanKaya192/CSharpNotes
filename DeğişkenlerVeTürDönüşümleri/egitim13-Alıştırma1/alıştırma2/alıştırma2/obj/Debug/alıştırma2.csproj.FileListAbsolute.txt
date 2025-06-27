@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim13-Alıştırma1\alıştırma2\alıştırma2\bin\Debug\alıştırma2.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim13-Alıştırma1\alıştırma2\alıştırma2\bin\Debug\alıştırma2.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim13-Alıştırma1\alıştırma2\alıştırma2\bin\Debug\alıştırma2.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim13-Alıştırma1\alıştırma2\alıştırma2\obj\Debug\alıştırma2.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim13-Alıştırma1\alıştırma2\alıştırma2\obj\Debug\alıştırma2.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim13-Alıştırma1\alıştırma2\alıştırma2\obj\Debug\alıştırma2.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim13-Alıştırma1\alıştırma2\alıştırma2\obj\Debug\alıştırma2.pdb

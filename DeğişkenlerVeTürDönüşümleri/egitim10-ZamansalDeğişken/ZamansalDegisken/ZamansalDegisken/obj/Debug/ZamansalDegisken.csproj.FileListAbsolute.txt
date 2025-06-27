@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim10-ZamansalDeğişken\ZamansalDegisken\ZamansalDegisken\bin\Debug\ZamansalDegisken.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim10-ZamansalDeğişken\ZamansalDegisken\ZamansalDegisken\bin\Debug\ZamansalDegisken.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim10-ZamansalDeğişken\ZamansalDegisken\ZamansalDegisken\bin\Debug\ZamansalDegisken.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim10-ZamansalDeğişken\ZamansalDegisken\ZamansalDegisken\obj\Debug\ZamansalDegisken.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim10-ZamansalDeğişken\ZamansalDegisken\ZamansalDegisken\obj\Debug\ZamansalDegisken.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim10-ZamansalDeğişken\ZamansalDegisken\ZamansalDegisken\obj\Debug\ZamansalDegisken.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim10-ZamansalDeğişken\ZamansalDegisken\ZamansalDegisken\obj\Debug\ZamansalDegisken.pdb

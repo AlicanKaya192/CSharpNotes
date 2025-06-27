@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim9-Mantıksal Değişkenler\MantiksalDegiskenler\MantiksalDegiskenler\bin\Debug\MantiksalDegiskenler.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim9-Mantıksal Değişkenler\MantiksalDegiskenler\MantiksalDegiskenler\bin\Debug\MantiksalDegiskenler.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim9-Mantıksal Değişkenler\MantiksalDegiskenler\MantiksalDegiskenler\bin\Debug\MantiksalDegiskenler.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim9-Mantıksal Değişkenler\MantiksalDegiskenler\MantiksalDegiskenler\obj\Debug\MantiksalDegiskenler.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim9-Mantıksal Değişkenler\MantiksalDegiskenler\MantiksalDegiskenler\obj\Debug\MantiksalDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim9-Mantıksal Değişkenler\MantiksalDegiskenler\MantiksalDegiskenler\obj\Debug\MantiksalDegiskenler.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim9-Mantıksal Değişkenler\MantiksalDegiskenler\MantiksalDegiskenler\obj\Debug\MantiksalDegiskenler.pdb

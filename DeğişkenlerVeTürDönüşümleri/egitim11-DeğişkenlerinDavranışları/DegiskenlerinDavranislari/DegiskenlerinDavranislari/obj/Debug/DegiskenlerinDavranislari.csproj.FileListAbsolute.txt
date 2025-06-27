@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim11-DeğişkenlerinDavranışları\DegiskenlerinDavranislari\DegiskenlerinDavranislari\bin\Debug\DegiskenlerinDavranislari.exe.config
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim11-DeğişkenlerinDavranışları\DegiskenlerinDavranislari\DegiskenlerinDavranislari\bin\Debug\DegiskenlerinDavranislari.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim11-DeğişkenlerinDavranışları\DegiskenlerinDavranislari\DegiskenlerinDavranislari\bin\Debug\DegiskenlerinDavranislari.pdb
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim11-DeğişkenlerinDavranışları\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim11-DeğişkenlerinDavranışları\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim11-DeğişkenlerinDavranışları\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.exe
+C:\Users\alica\OneDrive\Masaüstü\udemy\udemyegitim11-DeğişkenlerinDavranışları\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.pdb
