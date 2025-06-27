@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\WhileDöngüsü\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\WhileDöngüsü\WhileDöngüsü\bin\Debug\WhileDöngüsü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\WhileDöngüsü\WhileDöngüsü\bin\Debug\WhileDöngüsü.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\WhileDöngüsü\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\WhileDöngüsü\WhileDöngüsü\obj\Debug\WhileDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\WhileDöngüsü\WhileDöngüsü\obj\Debug\WhileDöngüsü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\WhileDöngüsü\WhileDöngüsü\obj\Debug\WhileDöngüsü.pdb
