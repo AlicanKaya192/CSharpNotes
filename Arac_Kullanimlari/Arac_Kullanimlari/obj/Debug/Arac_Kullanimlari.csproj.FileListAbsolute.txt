@@ -1,0 +1,15 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\bin\Debug\Arac_Kullanimlari.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form2.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form3.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form4.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.KullaniciGirisEkrani.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Ucus_Rezervasyon_Sistemi.resources
