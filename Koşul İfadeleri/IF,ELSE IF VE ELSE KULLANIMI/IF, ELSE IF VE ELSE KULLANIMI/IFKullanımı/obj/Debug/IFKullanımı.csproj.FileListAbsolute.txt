@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\IF Kullanımı\IFKullanımı\IFKullanımı\bin\Debug\IFKullanımı.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\IF Kullanımı\IFKullanımı\IFKullanımı\bin\Debug\IFKullanımı.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\IF Kullanımı\IFKullanımı\IFKullanımı\bin\Debug\IFKullanımı.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\IF Kullanımı\IFKullanımı\IFKullanımı\obj\Debug\IFKullanımı.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\IF Kullanımı\IFKullanımı\IFKullanımı\obj\Debug\IFKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\IF Kullanımı\IFKullanımı\IFKullanımı\obj\Debug\IFKullanımı.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Koşul İfadeleri - 4\IF Kullanımı\IFKullanımı\IFKullanımı\obj\Debug\IFKullanımı.pdb
