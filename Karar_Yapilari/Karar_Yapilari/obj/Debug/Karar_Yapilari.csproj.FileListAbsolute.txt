@@ -1,0 +1,14 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\bin\Debug\Karar_Yapilari.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Karar_Yapilari_Egzersiz.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Alisveris_Indirim_Tutar_Hesaplama.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Bilgi_Yarismasi.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Karar_Yapilari\Karar_Yapilari\obj\Debug\Karar_Yapilari.Switch_Case.resources
