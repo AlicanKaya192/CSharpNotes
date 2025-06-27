@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\İçİçeForDöngüsüKullanımı,\bin\Debug\İçİçeForDöngüsüKullanımı.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\İçİçeForDöngüsüKullanımı,\bin\Debug\İçİçeForDöngüsüKullanımı.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\İçİçeForDöngüsüKullanımı,\bin\Debug\İçİçeForDöngüsüKullanımı.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\İçİçeForDöngüsüKullanımı,\obj\Debug\İçİçeForDöngüsüKullanımı,.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\İçİçeForDöngüsüKullanımı,\obj\Debug\İçİçeForDöngüsüKullanımı,.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\İçİçeForDöngüsüKullanımı,\obj\Debug\İçİçeForDöngüsüKullanımı.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\İçİçeForDöngüsüKullanımı,\obj\Debug\İçİçeForDöngüsüKullanımı.pdb

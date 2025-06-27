@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\ForEachDöngüsü.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\ForEachDöngüsü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForEachDöngüsü\ForEachDöngüsü\bin\Debug\ForEachDöngüsü.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\ForEachDöngüsü.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\ForEachDöngüsü.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\ForEachDöngüsü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForEachDöngüsü\ForEachDöngüsü\obj\Debug\ForEachDöngüsü.pdb

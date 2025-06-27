@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForDöngüsüAlıştırma\obj\Debug\ForDöngüsüAlıştırma.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForDöngüsüAlıştırma\obj\Debug\ForDöngüsüAlıştırma.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForDöngüsüAlıştırma\bin\Debug\ForDöngüsüAlıştırma.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForDöngüsüAlıştırma\bin\Debug\ForDöngüsüAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForDöngüsüAlıştırma\bin\Debug\ForDöngüsüAlıştırma.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForDöngüsüAlıştırma\obj\Debug\ForDöngüsüAlıştırma.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForDöngüsüAlıştırma\obj\Debug\ForDöngüsüAlıştırma.pdb

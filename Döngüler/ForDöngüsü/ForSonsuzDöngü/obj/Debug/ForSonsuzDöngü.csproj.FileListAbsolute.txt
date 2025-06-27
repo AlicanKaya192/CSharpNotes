@@ -1,0 +1,7 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForSonsuzDöngü\bin\Debug\ForSonsuzDöngü.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForSonsuzDöngü\bin\Debug\ForSonsuzDöngü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForSonsuzDöngü\bin\Debug\ForSonsuzDöngü.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForSonsuzDöngü\obj\Debug\ForSonsuzDöngü.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForSonsuzDöngü\obj\Debug\ForSonsuzDöngü.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForSonsuzDöngü\obj\Debug\ForSonsuzDöngü.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\Döngüler - 5\ForDöngüsü\ForSonsuzDöngü\obj\Debug\ForSonsuzDöngü.pdb
