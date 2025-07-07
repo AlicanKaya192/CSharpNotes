@@ -1,0 +1,14 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\bin\Debug\Dosyaİslemleri.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\bin\Debug\Dosyaİslemleri.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\bin\Debug\Dosyaİslemleri.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.Metin_Belgesi.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.MetinBelgesiKaydetme.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Dosya İşlemleri\Dosyaİslemleri\Dosyaİslemleri\obj\Debug\Dosyaİslemleri.Metin_Belge_Kayit.resources
