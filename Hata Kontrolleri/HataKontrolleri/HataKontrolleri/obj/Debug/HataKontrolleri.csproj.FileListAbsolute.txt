@@ -1,0 +1,10 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\bin\Debug\HataKontrolleri.exe.config
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\bin\Debug\HataKontrolleri.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\bin\Debug\HataKontrolleri.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\obj\Debug\HataKontrolleri.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\obj\Debug\HataKontrolleri.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\obj\Debug\HataKontrolleri.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\obj\Debug\HataKontrolleri.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\obj\Debug\HataKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\obj\Debug\HataKontrolleri.exe
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\Hata Kontrolleri\HataKontrolleri\HataKontrolleri\obj\Debug\HataKontrolleri.pdb
