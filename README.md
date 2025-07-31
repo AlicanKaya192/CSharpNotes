@@ -80,6 +80,7 @@
 ---
 
 ## 👨‍💻 **İletişim & Sosyal Bağlantılar**
+🌐 [Kişisel Web Sitem](https://alican-kaya.com/)
 📩 Her türlü soru, öneri veya iletişim için:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alican-kaya-881650234/)
 
