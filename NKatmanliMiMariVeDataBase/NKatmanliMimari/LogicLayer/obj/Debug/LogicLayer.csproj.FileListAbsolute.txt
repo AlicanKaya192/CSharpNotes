@@ -1,0 +1,11 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.Up2Date
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.pdb

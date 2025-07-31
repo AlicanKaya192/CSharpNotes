@@ -1,0 +1,6 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb

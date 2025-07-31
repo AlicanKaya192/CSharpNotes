@@ -1,0 +1,9 @@
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\alica\OneDrive\Masaüstü\C#\C# Udemy - Murat Hoca\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

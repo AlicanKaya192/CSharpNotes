@@ -1,0 +1,37 @@
+Entity Layer - Entity Katmanı
+
+  - VeriTabanı tabloları ve sütunları oluşturduğumuz katman. Class Library olarak eklenir.
+    SQL de oluşturduğumuz tablolar VS code da sınıf, sütunlar ise birer Property olur.
+
+  - Proje buradan başlar. Entity katmanında değerleri okur. Daha Sonra Data Access Layer'a gider.
+
+----------------------------------------------------------------------------------------------------------------------
+
+Data Access Layer - Veri Erişim Katmanı
+
+  - CRUD işlemlerini yaptığımız katman.
+
+     C - CREATE
+ 
+     R - READ
+
+     U - UPDATE
+
+     D - DELETE
+
+  - Entity Layer dan gelen bilgileri CRUD işlemi yapar. 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Logic Layer - İş Katmanı
+
+  - İlgili CRUD işlemi yapılmadan önce kontrol yapılan alan.
+
+  - CRUD İşleminden gelen işlemlerin gerçekleşip gerçekleşmediğini burada kontrol eder. Eğer gerekli şartları
+    karşılıyor ise işlem gerçekleşir. İşlem gerçekleşir ise Presentation Layer a gider.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Presentation Layer - Sunum Katmanı
+
+  - Kullanıcının UI (Arayüzü) göreceği katman.
