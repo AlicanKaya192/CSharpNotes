@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DbExamStudentModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CLUBS">
+          <Key>
+            <PropertyRef Name="CLUBID" />
+          </Key>
+          <Property Name="CLUBID" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CLUBNAME" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Lectures">
+          <Key>
+            <PropertyRef Name="LectureID" />
+          </Key>
+          <Property Name="LectureID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="LectureName" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Notes">
+          <Key>
+            <PropertyRef Name="NoteID" />
+          </Key>
+          <Property Name="NoteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="StudentID" Type="int" />
+          <Property Name="Lecture" Type="int" />
+          <Property Name="Exam1" Type="smallint" />
+          <Property Name="Exam2" Type="smallint" />
+          <Property Name="Exam3" Type="smallint" />
+          <Property Name="Average" Type="decimal" Precision="5" Scale="2" />
+          <Property Name="Status" Type="bit" />
+        </EntityType>
+        <EntityType Name="Student">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NAME" Type="varchar" MaxLength="20" />
+          <Property Name="SURNAME" Type="varchar" MaxLength="20" />
+          <Property Name="PHOTO" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <Association Name="FK_Notes_Lectures">
+          <End Role="Lectures" Type="Self.Lectures" Multiplicity="0..1" />
+          <End Role="Notes" Type="Self.Notes" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Lectures">
+              <PropertyRef Name="LectureID" />
+            </Principal>
+            <Dependent Role="Notes">
+              <PropertyRef Name="Lecture" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Notes_Student">
+          <End Role="Student" Type="Self.Student" Multiplicity="0..1" />
+          <End Role="Notes" Type="Self.Notes" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Student">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Notes">
+              <PropertyRef Name="StudentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="NoteList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <EntityContainer Name="DbExamStudentModelStoreContainer">
+          <EntitySet Name="CLUBS" EntityType="Self.CLUBS" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Lectures" EntityType="Self.Lectures" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Notes" EntityType="Self.Notes" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Notes_Lectures" Association="Self.FK_Notes_Lectures">
+            <End Role="Lectures" EntitySet="Lectures" />
+            <End Role="Notes" EntitySet="Notes" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Notes_Student" Association="Self.FK_Notes_Student">
+            <End Role="Student" EntitySet="Student" />
+            <End Role="Notes" EntitySet="Notes" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DbExamStudentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Lectures">
+          <Key>
+            <PropertyRef Name="LectureID" />
+          </Key>
+          <Property Name="LectureID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="LectureName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Notes" Relationship="Self.FK_Notes_Lectures" FromRole="Lectures" ToRole="Notes" />
+        </EntityType>
+        <EntityType Name="Notes">
+          <Key>
+            <PropertyRef Name="NoteID" />
+          </Key>
+          <Property Name="NoteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="StudentID" Type="Int32" />
+          <Property Name="Lecture" Type="Int32" />
+          <Property Name="Exam1" Type="Int16" />
+          <Property Name="Exam2" Type="Int16" />
+          <Property Name="Exam3" Type="Int16" />
+          <Property Name="Average" Type="Decimal" Precision="5" Scale="2" />
+          <Property Name="Status" Type="Boolean" />
+          <NavigationProperty Name="Lectures" Relationship="Self.FK_Notes_Lectures" FromRole="Notes" ToRole="Lectures" />
+          <NavigationProperty Name="Student" Relationship="DbExamStudentModel.FK_Notes_Student" FromRole="Notes" ToRole="Student" />
+        </EntityType>
+        <Association Name="FK_Notes_Lectures">
+          <End Role="Lectures" Type="Self.Lectures" Multiplicity="0..1" />
+          <End Role="Notes" Type="Self.Notes" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Lectures">
+              <PropertyRef Name="LectureID" />
+            </Principal>
+            <Dependent Role="Notes">
+              <PropertyRef Name="Lecture" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DbExamStudentEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Lectures" EntityType="Self.Lectures" />
+          <EntitySet Name="Notes" EntityType="Self.Notes" />
+          <AssociationSet Name="FK_Notes_Lectures" Association="Self.FK_Notes_Lectures">
+            <End Role="Lectures" EntitySet="Lectures" />
+            <End Role="Notes" EntitySet="Notes" />
+          </AssociationSet>
+          <EntitySet Name="CLUBS" EntityType="DbExamStudentModel.CLUBS" />
+          <FunctionImport Name="NoteList" ReturnType="Collection(DbExamStudentModel.NoteList_Result)" />
+          <EntitySet Name="Student" EntityType="DbExamStudentModel.Student" />
+          <AssociationSet Name="FK_Notes_Student" Association="DbExamStudentModel.FK_Notes_Student">
+            <End Role="Student" EntitySet="Student" />
+            <End Role="Notes" EntitySet="Notes" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="CLUBS">
+          <Key>
+            <PropertyRef Name="CLUBID" />
+          </Key>
+          <Property Name="CLUBID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CLUBNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <ComplexType Name="NoteList_Result">
+          <Property Type="Int32" Name="NoteID" Nullable="false" />
+          <Property Type="String" Name="Student" Nullable="true" MaxLength="41" />
+          <Property Type="String" Name="LectureName" Nullable="true" MaxLength="50" />
+          <Property Type="Int16" Name="EXAM1" Nullable="true" />
+          <Property Type="Int16" Name="EXAM2" Nullable="true" />
+          <Property Type="Int16" Name="EXAM3" Nullable="true" />
+          <Property Type="Decimal" Name="Average" Nullable="true" Precision="5" Scale="2" />
+          <Property Type="Boolean" Name="Status" Nullable="true" />
+        </ComplexType>
+        <EntityType Name="Student">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="SURNAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="PHOTO" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Notes" Relationship="DbExamStudentModel.FK_Notes_Student" FromRole="Student" ToRole="Notes" />
+        </EntityType>
+        <Association Name="FK_Notes_Student">
+          <End Type="DbExamStudentModel.Student" Role="Student" Multiplicity="0..1" />
+          <End Type="DbExamStudentModel.Notes" Role="Notes" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Student">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Notes">
+              <PropertyRef Name="StudentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DbExamStudentModelStoreContainer" CdmEntityContainer="DbExamStudentEntities">
+          <EntitySetMapping Name="Lectures">
+            <EntityTypeMapping TypeName="DbExamStudentModel.Lectures">
+              <MappingFragment StoreEntitySet="Lectures">
+                <ScalarProperty Name="LectureID" ColumnName="LectureID" />
+                <ScalarProperty Name="LectureName" ColumnName="LectureName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Notes">
+            <EntityTypeMapping TypeName="DbExamStudentModel.Notes">
+              <MappingFragment StoreEntitySet="Notes">
+                <ScalarProperty Name="NoteID" ColumnName="NoteID" />
+                <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+                <ScalarProperty Name="Lecture" ColumnName="Lecture" />
+                <ScalarProperty Name="Exam1" ColumnName="Exam1" />
+                <ScalarProperty Name="Exam2" ColumnName="Exam2" />
+                <ScalarProperty Name="Exam3" ColumnName="Exam3" />
+                <ScalarProperty Name="Average" ColumnName="Average" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CLUBS">
+            <EntityTypeMapping TypeName="DbExamStudentModel.CLUBS">
+              <MappingFragment StoreEntitySet="CLUBS">
+                <ScalarProperty Name="CLUBNAME" ColumnName="CLUBNAME" />
+                <ScalarProperty Name="CLUBID" ColumnName="CLUBID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="NoteList" FunctionName="DbExamStudentModel.Store.NoteList">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="DbExamStudentModel.NoteList_Result">
+                <ScalarProperty Name="NoteID" ColumnName="NoteID" />
+                <ScalarProperty Name="Student" ColumnName="Student" />
+                <ScalarProperty Name="LectureName" ColumnName="LectureName" />
+                <ScalarProperty Name="EXAM1" ColumnName="EXAM1" />
+                <ScalarProperty Name="EXAM2" ColumnName="EXAM2" />
+                <ScalarProperty Name="EXAM3" ColumnName="EXAM3" />
+                <ScalarProperty Name="Average" ColumnName="Average" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <EntitySetMapping Name="Student">
+            <EntityTypeMapping TypeName="DbExamStudentModel.Student">
+              <MappingFragment StoreEntitySet="Student">
+                <ScalarProperty Name="PHOTO" ColumnName="PHOTO" />
+                <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+                <ScalarProperty Name="NAME" ColumnName="NAME" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

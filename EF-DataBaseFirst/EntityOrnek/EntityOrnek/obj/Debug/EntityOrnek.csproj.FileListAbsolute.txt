@@ -1,0 +1,16 @@
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOr.DE0246B1.Up2Date
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
+C:\Users\alica\OneDrive\Masaüstü\EntityFrameworkProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe.config

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbExamStudentModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CLUBS">
+    <Key>
+      <PropertyRef Name="CLUBID" />
+    </Key>
+    <Property Name="CLUBID" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CLUBNAME" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Lectures">
+    <Key>
+      <PropertyRef Name="LectureID" />
+    </Key>
+    <Property Name="LectureID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LectureName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Notes">
+    <Key>
+      <PropertyRef Name="NoteID" />
+    </Key>
+    <Property Name="NoteID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StudentID" Type="int" />
+    <Property Name="Lecture" Type="int" />
+    <Property Name="Exam1" Type="smallint" />
+    <Property Name="Exam2" Type="smallint" />
+    <Property Name="Exam3" Type="smallint" />
+    <Property Name="Average" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="Status" Type="bit" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="20" />
+    <Property Name="SURNAME" Type="varchar" MaxLength="20" />
+    <Property Name="PHOTO" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_Notes_Lectures">
+    <End Role="Lectures" Type="Self.Lectures" Multiplicity="0..1" />
+    <End Role="Notes" Type="Self.Notes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lectures">
+        <PropertyRef Name="LectureID" />
+      </Principal>
+      <Dependent Role="Notes">
+        <PropertyRef Name="Lecture" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Notes_Student">
+    <End Role="Student" Type="Self.Student" Multiplicity="0..1" />
+    <End Role="Notes" Type="Self.Notes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Notes">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="NoteList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="DbExamStudentModelStoreContainer">
+    <EntitySet Name="CLUBS" EntityType="Self.CLUBS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Lectures" EntityType="Self.Lectures" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Notes" EntityType="Self.Notes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Notes_Lectures" Association="Self.FK_Notes_Lectures">
+      <End Role="Lectures" EntitySet="Lectures" />
+      <End Role="Notes" EntitySet="Notes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Notes_Student" Association="Self.FK_Notes_Student">
+      <End Role="Student" EntitySet="Student" />
+      <End Role="Notes" EntitySet="Notes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
