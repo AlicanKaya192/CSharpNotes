@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-codefirst\\codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\migrations\\202508240149297_deletecustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\202508240149297_deletecustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202508240149297_DeleteCustomersTable.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
+              "RelativeToolTip": "CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T01:49:33.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Context.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Context.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Context.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T23:22:24.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Product.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:13:49.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Category.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:08:44.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Customer.cs",
+              "RelativeToolTip": "CodeFirst\\Entity\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T00:00:07.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
