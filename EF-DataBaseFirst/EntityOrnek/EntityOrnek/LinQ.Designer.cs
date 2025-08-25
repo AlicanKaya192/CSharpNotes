@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LinQ));
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -39,8 +40,11 @@
             this.radioButton5 = new System.Windows.Forms.RadioButton();
             this.radioButton6 = new System.Windows.Forms.RadioButton();
             this.button2 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.radioButton7 = new System.Windows.Forms.RadioButton();
+            this.radioButton8 = new System.Windows.Forms.RadioButton();
+            this.radioButton9 = new System.Windows.Forms.RadioButton();
+            this.radioButton10 = new System.Windows.Forms.RadioButton();
+            this.radioButton11 = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,14 +52,14 @@
             // 
             this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(0, -1);
+            this.dataGridView1.Location = new System.Drawing.Point(-12, -1);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(1304, 245);
             this.dataGridView1.TabIndex = 0;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(24, 550);
+            this.button1.Location = new System.Drawing.Point(300, 512);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(206, 35);
             this.button1.TabIndex = 1;
@@ -66,7 +70,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(761, 271);
+            this.label1.Location = new System.Drawing.Point(852, 273);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(175, 24);
             this.label1.TabIndex = 2;
@@ -85,7 +89,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(942, 266);
+            this.textBox1.Location = new System.Drawing.Point(1033, 268);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(198, 29);
             this.textBox1.TabIndex = 4;
@@ -147,7 +151,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(520, 550);
+            this.button2.Location = new System.Drawing.Point(24, 561);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(120, 35);
             this.button2.TabIndex = 10;
@@ -155,21 +159,60 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // label2
+            // radioButton7
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(747, 271);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(175, 24);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Name or Surname :";
+            this.radioButton7.AutoSize = true;
+            this.radioButton7.Location = new System.Drawing.Point(473, 266);
+            this.radioButton7.Name = "radioButton7";
+            this.radioButton7.Size = new System.Drawing.Size(105, 28);
+            this.radioButton7.TabIndex = 11;
+            this.radioButton7.TabStop = true;
+            this.radioButton7.Text = "Combine";
+            this.radioButton7.UseVisualStyleBackColor = true;
             // 
-            // textBox2
+            // radioButton8
             // 
-            this.textBox2.Location = new System.Drawing.Point(928, 266);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(198, 29);
-            this.textBox2.TabIndex = 4;
+            this.radioButton8.AutoSize = true;
+            this.radioButton8.Location = new System.Drawing.Point(473, 300);
+            this.radioButton8.Name = "radioButton8";
+            this.radioButton8.Size = new System.Drawing.Size(141, 28);
+            this.radioButton8.TabIndex = 12;
+            this.radioButton8.TabStop = true;
+            this.radioButton8.Text = "First 3 Values";
+            this.radioButton8.UseVisualStyleBackColor = true;
+            // 
+            // radioButton9
+            // 
+            this.radioButton9.AutoSize = true;
+            this.radioButton9.Location = new System.Drawing.Point(473, 334);
+            this.radioButton9.Name = "radioButton9";
+            this.radioButton9.Size = new System.Drawing.Size(139, 28);
+            this.radioButton9.TabIndex = 13;
+            this.radioButton9.TabStop = true;
+            this.radioButton9.Text = "Last 3 Values";
+            this.radioButton9.UseVisualStyleBackColor = true;
+            // 
+            // radioButton10
+            // 
+            this.radioButton10.AutoSize = true;
+            this.radioButton10.Location = new System.Drawing.Point(473, 368);
+            this.radioButton10.Name = "radioButton10";
+            this.radioButton10.Size = new System.Drawing.Size(143, 28);
+            this.radioButton10.TabIndex = 14;
+            this.radioButton10.TabStop = true;
+            this.radioButton10.Text = "Sort By Name";
+            this.radioButton10.UseVisualStyleBackColor = true;
+            // 
+            // radioButton11
+            // 
+            this.radioButton11.AutoSize = true;
+            this.radioButton11.Location = new System.Drawing.Point(473, 402);
+            this.radioButton11.Name = "radioButton11";
+            this.radioButton11.Size = new System.Drawing.Size(182, 28);
+            this.radioButton11.TabIndex = 15;
+            this.radioButton11.TabStop = true;
+            this.radioButton11.Text = "Skip First 5 Values";
+            this.radioButton11.UseVisualStyleBackColor = true;
             // 
             // LinQ
             // 
@@ -177,21 +220,25 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(1304, 608);
+            this.Controls.Add(this.radioButton11);
+            this.Controls.Add(this.radioButton10);
+            this.Controls.Add(this.radioButton9);
+            this.Controls.Add(this.radioButton8);
+            this.Controls.Add(this.radioButton7);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.radioButton6);
             this.Controls.Add(this.radioButton5);
             this.Controls.Add(this.radioButton4);
             this.Controls.Add(this.radioButton3);
             this.Controls.Add(this.radioButton2);
-            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.dataGridView1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "LinQ";
@@ -216,7 +263,10 @@
         private System.Windows.Forms.RadioButton radioButton5;
         private System.Windows.Forms.RadioButton radioButton6;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.RadioButton radioButton7;
+        private System.Windows.Forms.RadioButton radioButton8;
+        private System.Windows.Forms.RadioButton radioButton9;
+        private System.Windows.Forms.RadioButton radioButton10;
+        private System.Windows.Forms.RadioButton radioButton11;
     }
 }

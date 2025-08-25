@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|solutionrelative:entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-databasefirst\\entityornek\\entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-DataBaseFirst\\EntityOrnek\\entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|solutionrelative:entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "EntityOrnek\\LinQ.cs",
               "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek\\LinQ.cs",
               "RelativeToolTip": "EntityOrnek\\LinQ.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAFUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T10:00:25.419Z",
               "EditorCaption": ""

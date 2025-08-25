@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-codefirst\\codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\migrations\\202508240149297_deletecustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\202508240149297_deletecustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\migrations\\202508240149297_deletecustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\202508240149297_deletecustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-codefirst\\codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "202508240149297_DeleteCustomersTable.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
@@ -74,11 +74,12 @@
               "RelativeToolTip": "CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T01:49:33.902Z"
+              "WhenOpened": "2025-08-24T01:49:33.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Context.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Entity\\Context.cs",
@@ -91,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Entity\\Product.cs",
@@ -99,11 +100,12 @@
               "RelativeToolTip": "CodeFirst\\Entity\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:13:49.368Z"
+              "WhenOpened": "2025-08-22T00:13:49.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Entity\\Category.cs",
@@ -111,11 +113,12 @@
               "RelativeToolTip": "CodeFirst\\Entity\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:08:44.537Z"
+              "WhenOpened": "2025-08-22T00:08:44.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\CodeFirst\\Entity\\Customer.cs",
               "RelativeDocumentMoniker": "CodeFirst\\Entity\\Customer.cs",
@@ -123,7 +126,8 @@
               "RelativeToolTip": "CodeFirst\\Entity\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:00:07.022Z"
+              "WhenOpened": "2025-08-22T00:00:07.022Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -22,19 +22,33 @@ namespace EntityOrnek
         {
             if (radioButton1.Checked == true)
             {
-                var exam1 = from x in db.Notes
+                var values = from x in db.Notes
                             where x.Exam1 < 50
                             select new
                             {
                                 x.NoteID,
                                 Student = x.Student.NAME + " " + x.Student.SURNAME,
                                 x.Lectures.LectureName,
-                                x.Exam1
+                                x.Exam1,
+                                x.Exam2,
+                                x.Exam3,
+                                x.Average,
+                                Status = x.Status == true ? "Passed" : "Failed"
                             };
 
-                // var exam1 == db.Notes.Where(x => x.Exam1 < 50);
+                //var values = db.Notes.Select(x => new
+                //{
+                //    x.NoteID,
+                //    Student = x.Student.NAME + " " + x.Student.SURNAME,
+                //    x.Lectures.LectureName,
+                //    x.Exam1,
+                //    x.Exam2,
+                //    x.Exam3,
+                //    x.Average,
+                //    Status = x.Status == true ? "Passed" : "Failed"
+                //});
 
-                dataGridView1.DataSource = exam1.ToList();
+                dataGridView1.DataSource = values.ToList();
             }
             if (radioButton2.Checked == true)
             {
@@ -91,6 +105,41 @@ namespace EntityOrnek
                     x.Average,
                     Status = x.Status == true ? "Passed" : "Failed"
                 });
+
+                dataGridView1.DataSource = values.ToList();
+            }
+            if (radioButton7.Checked== true)
+            {
+                var values = db.Notes.SelectMany(x => db.Student.Where(y => y.ID == x.StudentID), (x,y) => 
+                    new
+                    {
+                        y.NAME,
+                        x.Average
+                    });
+
+                dataGridView1.DataSource= values.ToList();
+            }
+            if (radioButton8.Checked == true)
+            {
+                var values = db.Student.OrderBy(x => x.ID).Take(3);
+
+                dataGridView1.DataSource = values.ToList();
+            }
+            if (radioButton9.Checked == true)
+            {
+                var values = db.Student.OrderByDescending(x => x.ID).Take(3);
+
+                dataGridView1.DataSource = values.ToList();
+            }
+            if ( radioButton10.Checked == true)
+            {
+                var values = db.Student.OrderBy(x => x.NAME);
+
+                dataGridView1.DataSource = values.ToList();
+            }
+            if (radioButton11.Checked == true)
+            {
+                var values = db.Student.OrderByDescending(x => x.ID).Skip(3);
 
                 dataGridView1.DataSource = values.ToList();
             }
