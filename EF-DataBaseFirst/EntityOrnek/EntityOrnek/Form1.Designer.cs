@@ -52,6 +52,8 @@
             this.TxtLectureID = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.TxtNoteID = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
             this.BtnNoteProcedure = new System.Windows.Forms.Button();
             this.BtnNoteList = new System.Windows.Forms.Button();
             this.BtnNoteUpdate = new System.Windows.Forms.Button();
@@ -80,8 +82,7 @@
             this.radioButton11 = new System.Windows.Forms.RadioButton();
             this.radioButton12 = new System.Windows.Forms.RadioButton();
             this.radioButton13 = new System.Windows.Forms.RadioButton();
-            this.label12 = new System.Windows.Forms.Label();
-            this.TxtNoteID = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -344,6 +345,22 @@
             this.groupBox3.TabIndex = 8;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Notes";
+            // 
+            // TxtNoteID
+            // 
+            this.TxtNoteID.Location = new System.Drawing.Point(133, 28);
+            this.TxtNoteID.Name = "TxtNoteID";
+            this.TxtNoteID.Size = new System.Drawing.Size(194, 29);
+            this.TxtNoteID.TabIndex = 28;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(29, 33);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(96, 24);
+            this.label12.TabIndex = 27;
+            this.label12.Text = "NOTE ID :";
             // 
             // BtnNoteProcedure
             // 
@@ -622,27 +639,22 @@
             this.radioButton13.Text = "Lowest Exam 1";
             this.radioButton13.UseVisualStyleBackColor = true;
             // 
-            // label12
+            // button1
             // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(29, 33);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(96, 24);
-            this.label12.TabIndex = 27;
-            this.label12.Text = "NOTE ID :";
-            // 
-            // TxtNoteID
-            // 
-            this.TxtNoteID.Location = new System.Drawing.Point(133, 28);
-            this.TxtNoteID.Name = "TxtNoteID";
-            this.TxtNoteID.Size = new System.Drawing.Size(194, 29);
-            this.TxtNoteID.TabIndex = 28;
+            this.button1.Location = new System.Drawing.Point(477, 601);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(154, 35);
+            this.button1.TabIndex = 23;
+            this.button1.Text = "Form2 LinQ";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1480, 654);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.radioButton13);
             this.Controls.Add(this.radioButton12);
             this.Controls.Add(this.radioButton11);
@@ -736,6 +748,7 @@
         private System.Windows.Forms.RadioButton radioButton13;
         private System.Windows.Forms.TextBox TxtNoteID;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Button button1;
     }
 }
 

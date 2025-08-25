@@ -263,5 +263,12 @@ namespace EntityOrnek
             MessageBox.Show("Average and status calculated successfully."); // Notify the user
             BtnNoteList.PerformClick(); // Refresh the note list
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LinQ linQForm = new LinQ(); // Create an instance of the LinQ form
+            linQForm.Show(); // Show the LinQ form
+            this.Hide(); // Hide the current form
+        }
     }
 }

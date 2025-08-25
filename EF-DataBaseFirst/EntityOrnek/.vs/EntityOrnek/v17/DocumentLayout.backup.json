@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\",
+  "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-DataBaseFirst\\EntityOrnek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\entityornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|solutionrelative:entityornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-databasefirst\\entityornek\\entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|solutionrelative:entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|c:\\users\\alica\\onedrive\\masa\u00FCst\u00FC\\entityframeworkproje\\entityornek\\entityornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|solutionrelative:entityornek\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\entityornek\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|solutionrelative:entityornek\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-databasefirst\\entityornek\\entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389D582C-F680-4540-B13C-C22AE4021A43}|EntityOrnek\\EntityOrnek.csproj|solutionrelative:entityornek\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,38 +54,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\EntityOrnek\\Model1.edmx",
-              "RelativeDocumentMoniker": "EntityOrnek\\Model1.edmx",
-              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\EntityOrnek\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "EntityOrnek\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-18T18:03:32.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\EntityOrnek\\Form1.cs",
-              "RelativeDocumentMoniker": "EntityOrnek\\Form1.cs",
-              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\EntityOrnek\\Form1.cs",
-              "RelativeToolTip": "EntityOrnek\\Form1.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAMwAkBAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LinQ.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek\\LinQ.cs",
+              "RelativeDocumentMoniker": "EntityOrnek\\LinQ.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek\\LinQ.cs*",
+              "RelativeToolTip": "EntityOrnek\\LinQ.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T15:39:45.06Z",
+              "WhenOpened": "2025-08-25T10:00:25.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\EntityOrnek\\Form1.cs",
-              "RelativeDocumentMoniker": "EntityOrnek\\Form1.cs",
-              "ToolTip": "C:\\Users\\alica\\OneDrive\\Masa\u00FCst\u00FC\\EntityFrameworkProje\\EntityOrnek\\EntityOrnek\\Form1.cs [Design]",
-              "RelativeToolTip": "EntityOrnek\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "LinQ.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek\\LinQ.cs",
+              "RelativeDocumentMoniker": "EntityOrnek\\LinQ.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek\\LinQ.cs [Design]*",
+              "RelativeToolTip": "EntityOrnek\\LinQ.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T13:32:37.434Z",
+              "WhenOpened": "2025-08-25T09:57:35.192Z",
               "EditorCaption": " [Design]"
             }
           ]
