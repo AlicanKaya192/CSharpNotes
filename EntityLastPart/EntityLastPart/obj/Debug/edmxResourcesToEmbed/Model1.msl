@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbExamStudentModelStoreContainer" CdmEntityContainer="DbExamStudentEntities">
+    <EntitySetMapping Name="CLUBS">
+      <EntityTypeMapping TypeName="DbExamStudentModel.CLUB">
+        <MappingFragment StoreEntitySet="CLUBS">
+          <ScalarProperty Name="CLUBID" ColumnName="CLUBID" />
+          <ScalarProperty Name="CLUBNAME" ColumnName="CLUBNAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lectures">
+      <EntityTypeMapping TypeName="DbExamStudentModel.Lecture">
+        <MappingFragment StoreEntitySet="Lectures">
+          <ScalarProperty Name="LectureID" ColumnName="LectureID" />
+          <ScalarProperty Name="LectureName" ColumnName="LectureName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Notes">
+      <EntityTypeMapping TypeName="DbExamStudentModel.Note">
+        <MappingFragment StoreEntitySet="Notes">
+          <ScalarProperty Name="NoteID" ColumnName="NoteID" />
+          <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+          <ScalarProperty Name="Lecture" ColumnName="Lecture" />
+          <ScalarProperty Name="Exam1" ColumnName="Exam1" />
+          <ScalarProperty Name="Exam2" ColumnName="Exam2" />
+          <ScalarProperty Name="Exam3" ColumnName="Exam3" />
+          <ScalarProperty Name="Average" ColumnName="Average" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="DbExamStudentModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="Club" ColumnName="Club" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+          <ScalarProperty Name="PHOTO" ColumnName="PHOTO" />
+          <ScalarProperty Name="City" ColumnName="City" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

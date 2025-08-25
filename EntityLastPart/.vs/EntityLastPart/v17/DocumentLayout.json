@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\entitylastpart\\entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|solutionrelative:entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\entitylastpart\\entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|solutionrelative:entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\EntityLastPart\\Form1.cs",
+              "RelativeDocumentMoniker": "EntityLastPart\\Form1.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\EntityLastPart\\Form1.cs",
+              "RelativeToolTip": "EntityLastPart\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T23:01:20.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\EntityLastPart\\Form1.cs",
+              "RelativeDocumentMoniker": "EntityLastPart\\Form1.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\EntityLastPart\\Form1.cs [Design]",
+              "RelativeToolTip": "EntityLastPart\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:49:19.575Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

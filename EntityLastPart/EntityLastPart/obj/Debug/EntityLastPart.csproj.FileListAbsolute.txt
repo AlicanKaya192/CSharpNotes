@@ -1,0 +1,16 @@
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\bin\Debug\EntityLastPart.exe.config
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\bin\Debug\EntityLastPart.exe
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\bin\Debug\EntityLastPart.pdb
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\bin\Debug\EntityFramework.dll
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\bin\Debug\EntityFramework.xml
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.Form1.resources
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.Properties.Resources.resources
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.csproj.GenerateResource.cache
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLa.DFA480EF.Up2Date
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.exe
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.pdb
+C:\Users\alica\source\repos\CSharpNotes\EntityLastPart\EntityLastPart\obj\Debug\EntityLastPart.exe.config

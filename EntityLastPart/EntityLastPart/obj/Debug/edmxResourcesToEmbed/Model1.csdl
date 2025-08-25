@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbExamStudentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CLUB">
+    <Key>
+      <PropertyRef Name="CLUBID" />
+    </Key>
+    <Property Name="CLUBID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CLUBNAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Students" Relationship="DbExamStudentModel.FK_Student_CLUBS" FromRole="CLUB" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Lecture">
+    <Key>
+      <PropertyRef Name="LectureID" />
+    </Key>
+    <Property Name="LectureID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LectureName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Notes" Relationship="Self.FK_Notes_Lectures" FromRole="Lectures" ToRole="Notes" />
+  </EntityType>
+  <EntityType Name="Note">
+    <Key>
+      <PropertyRef Name="NoteID" />
+    </Key>
+    <Property Name="NoteID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentID" Type="Int32" />
+    <Property Name="Lecture" Type="Int32" />
+    <Property Name="Exam1" Type="Int16" />
+    <Property Name="Exam2" Type="Int16" />
+    <Property Name="Exam3" Type="Int16" />
+    <Property Name="Average" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="Status" Type="Boolean" />
+    <NavigationProperty Name="Lecture1" Relationship="Self.FK_Notes_Lectures" FromRole="Notes" ToRole="Lectures" />
+    <NavigationProperty Name="Student" Relationship="Self.FK_Notes_Student" FromRole="Notes" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="SURNAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="PHOTO" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="City" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Notes" Relationship="Self.FK_Notes_Student" FromRole="Student" ToRole="Notes" />
+    <Property Name="Club" Type="Byte" />
+    <NavigationProperty Name="CLUB1" Relationship="DbExamStudentModel.FK_Student_CLUBS" FromRole="Student" ToRole="CLUB" />
+  </EntityType>
+  <Association Name="FK_Notes_Lectures">
+    <End Role="Lectures" Type="Self.Lecture" Multiplicity="0..1" />
+    <End Role="Notes" Type="Self.Note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lectures">
+        <PropertyRef Name="LectureID" />
+      </Principal>
+      <Dependent Role="Notes">
+        <PropertyRef Name="Lecture" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Notes_Student">
+    <End Role="Student" Type="Self.Student" Multiplicity="0..1" />
+    <End Role="Notes" Type="Self.Note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Notes">
+        <PropertyRef Name="StudentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DbExamStudentEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CLUBS" EntityType="Self.CLUB" />
+    <EntitySet Name="Lectures" EntityType="Self.Lecture" />
+    <EntitySet Name="Notes" EntityType="Self.Note" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <AssociationSet Name="FK_Notes_Lectures" Association="Self.FK_Notes_Lectures">
+      <End Role="Lectures" EntitySet="Lectures" />
+      <End Role="Notes" EntitySet="Notes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Notes_Student" Association="Self.FK_Notes_Student">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="Notes" EntitySet="Notes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Student_CLUBS" Association="DbExamStudentModel.FK_Student_CLUBS">
+      <End Role="CLUB" EntitySet="CLUBS" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Student_CLUBS">
+    <End Type="DbExamStudentModel.CLUB" Role="CLUB" Multiplicity="0..1" />
+    <End Type="DbExamStudentModel.Student" Role="Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CLUB">
+        <PropertyRef Name="CLUBID" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="Club" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
