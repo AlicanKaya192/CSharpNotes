@@ -85,6 +85,7 @@
       <End Role="CLUB" EntitySet="CLUBS" />
       <End Role="Student" EntitySet="Students" />
     </AssociationSet>
+    <EntitySet Name="Products" EntityType="DbExamStudentModel.Product" />
   </EntityContainer>
   <Association Name="FK_Student_CLUBS">
     <End Type="DbExamStudentModel.CLUB" Role="CLUB" Multiplicity="0..1" />
@@ -98,4 +99,14 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="BRAND" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PRICE" Type="Int32" />
+    <Property Name="STOCK" Type="Int32" />
+  </EntityType>
 </Schema>

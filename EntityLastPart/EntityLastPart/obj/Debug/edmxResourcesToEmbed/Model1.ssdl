@@ -27,6 +27,16 @@
     <Property Name="Average" Type="decimal" Precision="5" Scale="2" />
     <Property Name="Status" Type="bit" />
   </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="BRAND" Type="varchar" MaxLength="50" />
+    <Property Name="PRICE" Type="int" />
+    <Property Name="STOCK" Type="int" />
+  </EntityType>
   <EntityType Name="Student">
     <Key>
       <PropertyRef Name="ID" />
@@ -78,6 +88,7 @@
     <EntitySet Name="CLUBS" EntityType="Self.CLUBS" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Lectures" EntityType="Self.Lectures" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Notes" EntityType="Self.Notes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
     <AssociationSet Name="FK_Notes_Lectures" Association="Self.FK_Notes_Lectures">
       <End Role="Lectures" EntitySet="Lectures" />

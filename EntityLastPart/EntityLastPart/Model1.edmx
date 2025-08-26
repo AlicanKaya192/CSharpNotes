@@ -32,6 +32,16 @@
           <Property Name="Average" Type="decimal" Precision="5" Scale="2" />
           <Property Name="Status" Type="bit" />
         </EntityType>
+        <EntityType Name="Product">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NAME" Type="varchar" MaxLength="50" />
+          <Property Name="BRAND" Type="varchar" MaxLength="50" />
+          <Property Name="PRICE" Type="int" />
+          <Property Name="STOCK" Type="int" />
+        </EntityType>
         <EntityType Name="Student">
           <Key>
             <PropertyRef Name="ID" />
@@ -83,6 +93,7 @@
           <EntitySet Name="CLUBS" EntityType="Self.CLUBS" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Lectures" EntityType="Self.Lectures" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Notes" EntityType="Self.Notes" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
           <AssociationSet Name="FK_Notes_Lectures" Association="Self.FK_Notes_Lectures">
             <End Role="Lectures" EntitySet="Lectures" />
@@ -186,6 +197,7 @@
             <End Role="CLUB" EntitySet="CLUBS" />
             <End Role="Student" EntitySet="Students" />
           </AssociationSet>
+          <EntitySet Name="Products" EntityType="DbExamStudentModel.Product" />
         </EntityContainer>
         <Association Name="FK_Student_CLUBS">
           <End Type="DbExamStudentModel.CLUB" Role="CLUB" Multiplicity="0..1" />
@@ -199,6 +211,16 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <EntityType Name="Product">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NAME" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="BRAND" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PRICE" Type="Int32" />
+          <Property Name="STOCK" Type="Int32" />
+        </EntityType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -244,6 +266,17 @@
                 <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
                 <ScalarProperty Name="PHOTO" ColumnName="PHOTO" />
                 <ScalarProperty Name="City" ColumnName="City" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Products">
+            <EntityTypeMapping TypeName="DbExamStudentModel.Product">
+              <MappingFragment StoreEntitySet="Product">
+                <ScalarProperty Name="STOCK" ColumnName="STOCK" />
+                <ScalarProperty Name="PRICE" ColumnName="PRICE" />
+                <ScalarProperty Name="BRAND" ColumnName="BRAND" />
+                <ScalarProperty Name="NAME" ColumnName="NAME" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>

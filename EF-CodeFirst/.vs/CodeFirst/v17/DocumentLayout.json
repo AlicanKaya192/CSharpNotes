@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-codefirst\\codefirst\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\202508240149297_deletecustomerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\ef-codefirst\\codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EF-CodeFirst\\codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0A1965A-175C-49DB-AE60-55A7741A1B3E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\entity\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,8 +74,7 @@
               "RelativeToolTip": "CodeFirst\\Migrations\\202508240149297_DeleteCustomersTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T01:49:33.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T01:49:33.902Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "CodeFirst\\Entity\\Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T23:22:24.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T23:22:24.061Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "CodeFirst\\Entity\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:13:49.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T00:13:49.368Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "CodeFirst\\Entity\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:08:44.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T00:08:44.537Z"
             },
             {
               "$type": "Document",

@@ -29,5 +29,6 @@ namespace EntityLastPart
         public virtual DbSet<Lecture> Lectures { get; set; }
         public virtual DbSet<Note> Notes { get; set; }
         public virtual DbSet<Student> Students { get; set; }
+        public virtual DbSet<Product> Products { get; set; }
     }
 }

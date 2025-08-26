@@ -12,6 +12,7 @@
         <AssociationConnector Association="DbExamStudentModel.FK_Notes_Lectures" ManuallyRouted="false" />
         <AssociationConnector Association="DbExamStudentModel.FK_Notes_Student" ManuallyRouted="false" />
         <AssociationConnector Association="DbExamStudentModel.FK_Student_CLUBS" />
+        <EntityTypeShape EntityType="DbExamStudentModel.Product" Width="1.5" PointX="7.375" PointY="4.5" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
