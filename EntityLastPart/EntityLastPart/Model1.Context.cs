@@ -12,6 +12,8 @@ namespace EntityLastPart
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Core.Objects;
+    using System.Linq;
     
     public partial class DbExamStudentEntities : DbContext
     {
@@ -30,5 +32,10 @@ namespace EntityLastPart
         public virtual DbSet<Note> Notes { get; set; }
         public virtual DbSet<Student> Students { get; set; }
         public virtual DbSet<Product> Products { get; set; }
+    
+        public virtual ObjectResult<ClubList_Result> ClubList()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<ClubList_Result>("ClubList");
+        }
     }
 }

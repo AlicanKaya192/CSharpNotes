@@ -86,6 +86,7 @@
       <End Role="Student" EntitySet="Students" />
     </AssociationSet>
     <EntitySet Name="Products" EntityType="DbExamStudentModel.Product" />
+    <FunctionImport Name="ClubList" ReturnType="Collection(DbExamStudentModel.ClubList_Result)" />
   </EntityContainer>
   <Association Name="FK_Student_CLUBS">
     <End Type="DbExamStudentModel.CLUB" Role="CLUB" Multiplicity="0..1" />
@@ -109,4 +110,9 @@
     <Property Name="PRICE" Type="Int32" />
     <Property Name="STOCK" Type="Int32" />
   </EntityType>
+  <ComplexType Name="ClubList_Result">
+    <Property Type="String" Name="NAME" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="SURNAME" Nullable="true" MaxLength="20" />
+    <Property Type="Byte" Name="Club" Nullable="true" />
+  </ComplexType>
 </Schema>

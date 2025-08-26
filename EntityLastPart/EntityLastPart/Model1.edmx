@@ -89,6 +89,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
+        <Function Name="ClubList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
         <EntityContainer Name="DbExamStudentModelStoreContainer">
           <EntitySet Name="CLUBS" EntityType="Self.CLUBS" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Lectures" EntityType="Self.Lectures" Schema="dbo" store:Type="Tables" />
@@ -198,6 +199,7 @@
             <End Role="Student" EntitySet="Students" />
           </AssociationSet>
           <EntitySet Name="Products" EntityType="DbExamStudentModel.Product" />
+          <FunctionImport Name="ClubList" ReturnType="Collection(DbExamStudentModel.ClubList_Result)" />
         </EntityContainer>
         <Association Name="FK_Student_CLUBS">
           <End Type="DbExamStudentModel.CLUB" Role="CLUB" Multiplicity="0..1" />
@@ -221,6 +223,11 @@
           <Property Name="PRICE" Type="Int32" />
           <Property Name="STOCK" Type="Int32" />
         </EntityType>
+        <ComplexType Name="ClubList_Result">
+          <Property Type="String" Name="NAME" Nullable="true" MaxLength="20" />
+          <Property Type="String" Name="SURNAME" Nullable="true" MaxLength="20" />
+          <Property Type="Byte" Name="Club" Nullable="true" />
+        </ComplexType>
       </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
@@ -280,6 +287,15 @@
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="ClubList" FunctionName="DbExamStudentModel.Store.ClubList">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="DbExamStudentModel.ClubList_Result">
+                <ScalarProperty Name="NAME" ColumnName="NAME" />
+                <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+                <ScalarProperty Name="Club" ColumnName="Club" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
         </EntityContainerMapping>
       </Mapping>
     </edmx:Mappings>

@@ -54,5 +54,14 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="ClubList" FunctionName="DbExamStudentModel.Store.ClubList">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="DbExamStudentModel.ClubList_Result">
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+          <ScalarProperty Name="Club" ColumnName="Club" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
   </EntityContainerMapping>
 </Mapping>

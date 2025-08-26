@@ -84,6 +84,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Function Name="ClubList" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
   <EntityContainer Name="DbExamStudentModelStoreContainer">
     <EntitySet Name="CLUBS" EntityType="Self.CLUBS" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Lectures" EntityType="Self.Lectures" Schema="dbo" store:Type="Tables" />

@@ -44,5 +44,10 @@ namespace EntityLastPart
             //               orderby x.STOCK descending
             //               select x.NAME).First();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = db.ClubList().ToList();
+        }
     }
 }
