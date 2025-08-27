@@ -38,7 +38,7 @@ namespace EntityLastPart
             label5.Text = db.Products.Sum(x => x.STOCK).ToString(); // Toplam stok
             label6.Text = db.Products.Where(x => x.NAME == "Freezer").Sum(x => x.STOCK).ToString(); // Buzdolabındaki toplam stok
             label7.Text = db.Products.Where(x => x.NAME == "Freezer").Average(x => x.PRICE).ToString(); // Buzdolabındaki ortalama fiyat
-            label8.Text = db.Products.Where(x => x.STOCK == db.Products.Max(y => y.STOCK)).Select(z => z.NAME).FirstOrDefault(); // En yüksek stoklu ürün adı
+            label8.Text = db.Products.Where(x => x.STOCK == db.Products.Max(y => y.STOCK)).Select(z => z.NAME).First(); // En yüksek stoklu ürün adı
 
             //label8.Text =  (from x in db.Products
             //               orderby x.STOCK descending
