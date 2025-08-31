@@ -1,0 +1,33 @@
+# Derleme çıktıları
+/dist
+/build
+/out
+
+# Geçici dosyalar
+*.log
+*.tmp
+*.swp
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Ortam dosyaları
+.env
+
+# Node.js için
+node_modules/
+
+# Python için
+__pycache__/
+*.pyc
+.venv/
+
+# Java için
+*.class
+*.jar
+target/
+
+# IDE / Editor ayarları
+.vscode/
+.idea/

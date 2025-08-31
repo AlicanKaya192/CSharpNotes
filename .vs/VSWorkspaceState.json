@@ -2,12 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Arac_Kullanimlari",
-    "\\EF-CodeFirst\\CodeFirst",
     "\\EF-DataBaseFirst",
     "\\EF-DataBaseFirst\\DataBase",
     "\\EF-DataBaseFirst\\EntityOrnek",
     "\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek"
   ],
-  "SelectedNode": "\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,37 @@
+﻿
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+
+<h1>Burasi Şehir Paneli</h1>
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+		<th>Ülke</th>
+        <th>Şehir</th>
+        <th>Nüfus</th>
+        <th>Bayrak</th>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.Id</td>
+        <td>@ViewBag.Name</td>
+        <td>@ViewBag.Population</td>
+        <td>@ViewBag.Country</td>
+        <td>@ViewBag.Color1 - @ViewBag.Color2</td>
+    </tr>
+
+    <tr>
+        <td>@ViewBag.Id2</td>
+        <td>@ViewBag.Name2</td>
+        <td>@ViewBag.Population2</td>
+        <td>@ViewBag.Country2</td>
+        <td>@ViewBag.Color3 - @ViewBag.Color4</td>
+    </tr>
+
+</table>
+
+<a href="/Default/Products/" class="btn btn-info">Ürünlere Git</a>

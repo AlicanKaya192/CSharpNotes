@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\skill_codefirstentity\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|solutionrelative:skill_codefirstentity\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\skill_codefirstentity\\skill_codefirstentity\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|solutionrelative:skill_codefirstentity\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\skill_codefirstentity\\views\\admin\\yeniyetenek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|solutionrelative:skill_codefirstentity\\views\\admin\\yeniyetenek.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\skill_codefirstentity\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|solutionrelative:skill_codefirstentity\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDF739FD-74E6-4F71-AEDC-AFC303E418DF}|Skill_CodeFirstEntity\\Skill_CodeFirstEntity.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\skill_codefirstentity\\views\\admin\\yetenekgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,12 +86,11 @@
               "RelativeToolTip": "Skill_CodeFirstEntity\\Views\\Admin\\YetenekGetir.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T19:59:54.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:59:54.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "YeniYetenek.cshtml",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\Skill_CodeFirstEntity\\Views\\Admin\\YeniYetenek.cshtml",
               "RelativeDocumentMoniker": "Skill_CodeFirstEntity\\Views\\Admin\\YeniYetenek.cshtml",
@@ -99,12 +98,11 @@
               "RelativeToolTip": "Skill_CodeFirstEntity\\Views\\Admin\\YeniYetenek.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T19:39:11.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:39:11.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\Skill_CodeFirstEntity\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Skill_CodeFirstEntity\\Views\\Admin\\Index.cshtml",
@@ -117,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\Skill_CodeFirstEntity\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Skill_CodeFirstEntity\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Skill_CodeFirstEntity\\Skill_CodeFirstEntity\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Skill_CodeFirstEntity\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T19:17:04.543Z",
               "EditorCaption": ""

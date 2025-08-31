@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\entitylastpart\\entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|solutionrelative:entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\entitylastpart\\entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D748D80C-C93F-4143-A045-E0024F07C63C}|EntityLastPart\\EntityLastPart.csproj|solutionrelative:entitylastpart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -65,8 +65,7 @@
               "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\EntityLastPart\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "EntityLastPart\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-26T22:29:48.762Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-08-26T22:29:48.762Z"
             },
             {
               "$type": "Document",
@@ -76,7 +75,7 @@
               "RelativeDocumentMoniker": "EntityLastPart\\Form1.cs",
               "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\EntityLastPart\\Form1.cs",
               "RelativeToolTip": "EntityLastPart\\Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAnwCwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAnwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T23:01:20.781Z",
               "EditorCaption": ""
@@ -90,8 +89,7 @@
               "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\EntityLastPart\\EntityLastPart\\Form1.cs [Design]",
               "RelativeToolTip": "EntityLastPart\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T22:49:19.575Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-25T22:49:19.575Z"
             }
           ]
         }

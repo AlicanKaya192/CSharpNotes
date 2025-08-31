@@ -1,0 +1,33 @@
+﻿@using Project_OOP.Entity
+@model List<Customer>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_CoreLayout.cshtml";
+}
+
+<h1>Müşteri Listesi</h1>
+
+<table class="table table-bordered">
+
+        <tr>
+            <th>ID</th>
+            <th>Ad</th>
+            <th>Şehir</th>
+            <th>Sil</th>
+            <th>Güncelle</th>
+        </tr>
+
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.ID</td>
+                <td>@customer.Name</td>
+                <td>@customer.City</td>
+                <td><a href="/Customer/DeleteCustomer/@customer.ID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Customer/UpdateCustomer/"@customer.ID class="btn btn-success">Güncelle</a></td>
+            </tr>
+        }
+
+</table>
+
+<a href="/Customer/AddCustomer/" class="btn btn-primary">Yeni Müşteri Ekle</a>
