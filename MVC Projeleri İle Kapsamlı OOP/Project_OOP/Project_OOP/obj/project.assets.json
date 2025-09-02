@@ -7603,11 +7603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alica\\OneDrive\\Masaüstü\\C#\\OOP Kapsamlı\\Project_OOP\\Project_OOP\\Project_OOP.csproj",
+      "projectUniqueName": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP\\Project_OOP.csproj",
       "projectName": "Project_OOP",
-      "projectPath": "C:\\Users\\alica\\OneDrive\\Masaüstü\\C#\\OOP Kapsamlı\\Project_OOP\\Project_OOP\\Project_OOP.csproj",
+      "projectPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP\\Project_OOP.csproj",
       "packagesPath": "C:\\Users\\alica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alica\\OneDrive\\Masaüstü\\C#\\OOP Kapsamlı\\Project_OOP\\Project_OOP\\obj\\",
+      "outputPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uk31S4EUkhk=",
+  "dgSpecHash": "TMNK7e3kMlM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alica\\OneDrive\\Masaüstü\\C#\\OOP Kapsamlı\\Project_OOP\\Project_OOP\\Project_OOP.csproj",
+  "projectFilePath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP\\Project_OOP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alica\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\alica\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

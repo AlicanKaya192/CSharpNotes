@@ -2,10 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Arac_Kullanimlari",
-    "\\EF-DataBaseFirst",
     "\\EF-DataBaseFirst\\DataBase",
     "\\EF-DataBaseFirst\\EntityOrnek",
-    "\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek"
+    "\\EF-DataBaseFirst\\EntityOrnek\\EntityOrnek",
+    "\\MVC Projeleri İle Kapsamlı OOP",
+    "\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP",
+    "\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP",
+    "\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP\\Views",
+    "\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP\\Views\\Customer"
   ],
+  "SelectedNode": "\\MVC Projeleri İle Kapsamlı OOP\\Project_OOP\\Project_OOP\\Views\\Customer\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

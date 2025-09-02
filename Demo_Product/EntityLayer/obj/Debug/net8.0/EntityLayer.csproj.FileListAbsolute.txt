@@ -1,0 +1,13 @@
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\alica\source\repos\CSharpNotes\Demo_Product\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
