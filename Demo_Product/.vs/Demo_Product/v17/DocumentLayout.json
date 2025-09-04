@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EfCategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
               "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
               "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T19:48:31.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EfProductDal.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfProductDal.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
@@ -79,18 +79,17 @@
               "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:47:15.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:47:15.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T19:42:21.332Z",
               "EditorCaption": ""

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Migrations\\20250902012157_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20250902012157_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,28 +59,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250902012157_mig1.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Migrations\\20250902012157_mig1.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250902012157_mig1.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Migrations\\20250902012157_mig1.cs",
-              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250902012157_mig1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T01:21:57.532Z",
+              "WhenOpened": "2025-09-02T19:48:31.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Concrete\\Context.cs",
-              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T01:18:58.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:47:15.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:42:21.332Z"
             }
           ]
         }
