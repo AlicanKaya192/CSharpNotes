@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri \u0130le Kapsaml\u0131 OOP\\Project_OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\mvc projeleri \u0130le kapsaml\u0131 oop\\project_oop\\project_oop\\projecontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|solutionrelative:project_oop\\projecontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\mvc projeleri \u0130le kapsaml\u0131 oop\\project_oop\\project_oop\\views\\shared\\_corelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|solutionrelative:project_oop\\views\\shared\\_corelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\mvc projeleri \u0130le kapsaml\u0131 oop\\project_oop\\project_oop\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|solutionrelative:project_oop\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\mvc projeleri \u0130le kapsaml\u0131 oop\\project_oop\\project_oop\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|solutionrelative:project_oop\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\mvc projeleri \u0130le kapsaml\u0131 oop\\project_oop\\project_oop\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|solutionrelative:project_oop\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\mvc projeleri \u0130le kapsaml\u0131 oop\\project_oop\\project_oop\\views\\shared\\_corelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|solutionrelative:project_oop\\views\\shared\\_corelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\mvc projeleri \u0130le kapsaml\u0131 oop\\project_oop\\project_oop\\projecontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4D1AD5-DADD-4AAC-BB83-5CC868B18BE7}|Project_OOP\\Project_OOP.csproj|solutionrelative:project_oop\\projecontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri \u0130le Kapsaml\u0131 OOP\\Project_OOP\\Project_OOP\\ProjeContext\\Context.cs",
               "RelativeDocumentMoniker": "Project_OOP\\ProjeContext\\Context.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri \u0130le Kapsaml\u0131 OOP\\Project_OOP\\Project_OOP\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Project_OOP\\Views\\Customer\\Index.cshtml",
@@ -87,11 +87,12 @@
               "RelativeToolTip": "Project_OOP\\Views\\Customer\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-30T21:53:30.409Z"
+              "WhenOpened": "2025-08-30T21:53:30.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri \u0130le Kapsaml\u0131 OOP\\Project_OOP\\Project_OOP\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Project_OOP\\Controllers\\CustomerController.cs",
@@ -99,11 +100,12 @@
               "RelativeToolTip": "Project_OOP\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:07:46.423Z"
+              "WhenOpened": "2025-09-01T08:07:46.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AddCustomer.cshtml",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri \u0130le Kapsaml\u0131 OOP\\Project_OOP\\Project_OOP\\Views\\Customer\\AddCustomer.cshtml",
               "RelativeDocumentMoniker": "Project_OOP\\Views\\Customer\\AddCustomer.cshtml",
@@ -111,11 +113,12 @@
               "RelativeToolTip": "Project_OOP\\Views\\Customer\\AddCustomer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-30T22:03:39.177Z"
+              "WhenOpened": "2025-08-30T22:03:39.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_CoreLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\MVC Projeleri \u0130le Kapsaml\u0131 OOP\\Project_OOP\\Project_OOP\\Views\\Shared\\_CoreLayout.cshtml",
               "RelativeDocumentMoniker": "Project_OOP\\Views\\Shared\\_CoreLayout.cshtml",
@@ -123,7 +126,8 @@
               "RelativeToolTip": "Project_OOP\\Views\\Shared\\_CoreLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-30T18:13:19.953Z"
+              "WhenOpened": "2025-08-30T18:13:19.953Z",
+              "EditorCaption": ""
             }
           ]
         }

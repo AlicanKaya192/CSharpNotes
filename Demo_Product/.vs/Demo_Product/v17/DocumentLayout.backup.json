@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A42C9DEB-4E0A-4297-817A-BD0AF0505906}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\businesslayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,39 +63,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EfCategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:48:31.527Z",
+              "WhenOpened": "2025-09-14T19:28:00.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EfProductDal.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfProductDal.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\EntityFramework\\EfProductDal.cs",
-              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfProductDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:47:15.035Z"
+              "WhenOpened": "2025-09-13T18:24:00.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:42:21.332Z"
+              "WhenOpened": "2025-09-06T22:49:54.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:44:22.798Z",
+              "EditorCaption": ""
             }
           ]
         }

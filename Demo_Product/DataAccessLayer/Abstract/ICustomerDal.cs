@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    internal interface ICustomerDal: IGenericDal<Customer>
+    public interface ICustomerDal: IGenericDal<Customer>
     {
     }
 }
