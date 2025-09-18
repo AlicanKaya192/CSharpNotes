@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CADB1C22-D2DE-4251-ABFB-15724E9BEEE3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,49 +46,45 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerManager.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\CustomerManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CustomerManager.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\CustomerManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\CustomerManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:44:38.557Z",
+              "DocumentIndex": 2,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T19:57:03.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:44:30.677Z",
+              "WhenOpened": "2025-09-18T14:55:36.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductManager.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\ProductManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ProductManager.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\BusinessLayer\\Concrete\\ProductManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\ProductManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:29:22.647Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T19:24:55.143Z",
               "EditorCaption": ""
             }
           ]
