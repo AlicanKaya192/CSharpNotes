@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\partials\\partial_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\partials\\partial_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,66 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Product\\UpdateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T19:57:03.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Partial_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Partials\\Partial_SideBar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T19:38:47.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Product\\AddProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T19:41:59.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T19:24:55.143Z",
+              "WhenOpened": "2025-09-19T15:15:06.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Demo_Product\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADsAAAAhAAAAAAAAAA==",
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T14:55:36.18Z",
+              "WhenOpened": "2025-09-19T15:12:42.305Z",
               "EditorCaption": ""
             }
           ]

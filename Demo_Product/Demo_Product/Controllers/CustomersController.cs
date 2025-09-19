@@ -2,65 +2,63 @@
 using BusinessLayer.FluentValidation;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using FluentValidation;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
 
 namespace Demo_Product.Controllers
 {
-    public class ProductController : Controller
+    public class CustomersController : Controller
     {
-        ProductManager productManager = new ProductManager(new EfProductDal());
+        CustomerManager _customerManager = new CustomerManager(new EfCustomerDal());
         public IActionResult Index()
         {
-            var values = productManager.TGetList();
+            var values = _customerManager.TGetList();
             return View(values);
         }
 
-        [HttpGet]   
-        public IActionResult AddProduct()
+        [HttpGet]
+        public IActionResult AddCustomer()
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult AddProduct(Product p)
+        public IActionResult AddCustomer(Customer c)
         {
-            ProductValidator validationRules = new ProductValidator();
-            ValidationResult results = validationRules.Validate(p);
+            CustomerValidator validationRules = new CustomerValidator();
+            ValidationResult results = validationRules.Validate(c);
             if(results.IsValid)
             {
-                productManager.TInsert(p);
+                _customerManager.TInsert(c);
                 return RedirectToAction("Index");
             }
             else
             {
-                foreach(var item in results.Errors)
+                foreach (var item in results.Errors)
                 {
                     ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
                 }
             }
             return RedirectToAction("Index");
         }
-
-        public IActionResult DeleteProduct(int id)
+        public IActionResult DeleteCustomer(int id)
         {
-            var value = productManager.TGetById(id);
-            productManager.TDelete(value);
+            var value = _customerManager.TGetById(id);
+            _customerManager.TDelete(value);
             return RedirectToAction("Index");
         }
 
         [HttpGet]
-        public IActionResult UpdateProduct(int id)
+        public IActionResult UpdateCustomer(int id)
         {
-            var value = productManager.TGetById(id);
+            var value = _customerManager.TGetById(id);
             return View(value);
         }
-
         [HttpPost]
-        public IActionResult UpdateProduct(Product p)
+        public IActionResult UpdateCustomer(Customer c)
         {
-            productManager.TUpdate(p);
+            _customerManager.TUpdate(c);
             return RedirectToAction("Index");
         }
     }
