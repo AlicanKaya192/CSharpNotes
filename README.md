@@ -9,12 +9,10 @@
 <p>
   <!-- C# -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="120" style="margin:10px;"/>
-  <!-- ASP.NET -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Logo" width="120" style="margin:10px;"/>
-  <!-- .NET Framework -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET Framework Logo" width="120" style="margin:10px;"/>
+  <!-- .NET Core -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core Logo" width="120" style="margin:10px;"/>
   <!-- MSSQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_SQL_Server_Logo.svg" alt="MSSQL Logo" width="120" style="margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="MSSQL Logo" width="120" style="margin:10px;"/>
   <!-- HTML5 -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 Logo" width="120" style="margin:10px;"/>
   <!-- CSS3 -->
@@ -26,7 +24,6 @@
 </p>
 
 </div>
-
 
 ---
 
