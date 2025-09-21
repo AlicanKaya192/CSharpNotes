@@ -9,7 +9,7 @@
 
 <!-- Üst Satır: C# - .NET Core - SQL -->
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="120" style="margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="150" style="margin:10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core Logo" width="120" style="margin:10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="MSSQL Logo" width="120" style="margin:10px;"/>
 </p>
