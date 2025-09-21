@@ -5,21 +5,20 @@
 💻 **Kapsamlı C# Kaynakları, Uygulama Örnekleri ve Açık Kaynak Projeler**  
 🎯 Başlangıçtan ileri seviyeye adım adım öğrenme rehberi  
 
-<!-- Banner Satırı -->
+<br/> <!-- 🎯 yazısı ile logolar arasında dikey boşluk -->
+
+<!-- Üst Satır: C# - .NET Core - SQL -->
 <p>
-  <!-- C# -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="120" style="margin:10px;"/>
-  <!-- .NET Core -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Core Logo" width="120" style="margin:10px;"/>
-  <!-- MSSQL -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="MSSQL Logo" width="120" style="margin:10px;"/>
-  <!-- HTML5 -->
+</p>
+
+<!-- Alt Satır: HTML5 - CSS3 - JS - Tailwind -->
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 Logo" width="120" style="margin:10px;"/>
-  <!-- CSS3 -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 Logo" width="120" style="margin:10px;"/>
-  <!-- JavaScript -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="120" style="margin:10px;"/>
-  <!-- Tailwind CSS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="120" style="margin:10px;"/>
 </p>
 
