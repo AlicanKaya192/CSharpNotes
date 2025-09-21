@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|c:\\users\\alica\\source\\repos\\csharpnotes\\demo_product\\demo_product\\todolist.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A53C687A-5B68-434C-AE59-E1609D6F488D}|Demo_Product\\Demo_Product.csproj|solutionrelative:demo_product\\todolist.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,26 +52,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Customers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Demo_Product\\Views\\Customers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Customers\\Index.cshtml",
-              "RelativeToolTip": "Demo_Product\\Views\\Customers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo_Product\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "Demo_Product\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T15:15:06.365Z",
+              "WhenOpened": "2025-09-21T19:17:21.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "Demo_Product\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Demo_Product\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Demo_Product\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T15:12:42.305Z",
+              "WhenOpened": "2025-09-21T19:17:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoList.txt",
+              "DocumentMoniker": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\ToDoList.txt",
+              "RelativeDocumentMoniker": "Demo_Product\\ToDoList.txt",
+              "ToolTip": "C:\\Users\\alica\\source\\repos\\CSharpNotes\\Demo_Product\\Demo_Product\\ToDoList.txt",
+              "RelativeToolTip": "Demo_Product\\ToDoList.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-21T19:12:17.538Z",
               "EditorCaption": ""
             }
           ]

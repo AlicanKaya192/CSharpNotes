@@ -5,21 +5,31 @@ using EntityLayer.Concrete;
 using FluentValidation;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Collections.Generic;
 
 namespace Demo_Product.Controllers
 {
     public class CustomersController : Controller
     {
         CustomerManager _customerManager = new CustomerManager(new EfCustomerDal());
+        JobManager jobManager = new JobManager(new EfJobDal());
         public IActionResult Index()
         {
-            var values = _customerManager.TGetList();
+            var values = _customerManager.GetCustomersListWithJob();
             return View(values);
         }
 
         [HttpGet]
         public IActionResult AddCustomer()
         {
+            List<SelectListItem> values = (from x in jobManager.TGetList()
+                                            select new SelectListItem
+                                            {
+                                                Text = x.Name,
+                                                Value = x.JobID.ToString()
+                                            }).ToList();
+            ViewBag.v = values;
             return View();
         }
 
@@ -52,6 +62,12 @@ namespace Demo_Product.Controllers
         [HttpGet]
         public IActionResult UpdateCustomer(int id)
         {
+            List<SelectListItem> values = (from x in jobManager.TGetList()
+                                           select new SelectListItem
+                                           {
+                                               Text = x.Name,
+                                               Value = x.JobID.ToString()
+                                           }).ToList();
             var value = _customerManager.TGetById(id);
             return View(value);
         }

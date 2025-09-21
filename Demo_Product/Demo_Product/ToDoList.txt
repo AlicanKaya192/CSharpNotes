@@ -1,0 +1,11 @@
+﻿* Arama İşlemi
+* Üyelik Sistemi
+* Identity
+* Yardım Popup
+* Ayarlar
+* Çıkış Yap
+* Giriş yap
+* Yeni Üye Kaydı
+* Admin Paneli
+* Publish
+* Proje Canlıya Taşıma

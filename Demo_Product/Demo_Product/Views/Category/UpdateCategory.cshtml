@@ -6,7 +6,7 @@
 
 <form method="post">
 	@Html.Label("Category ID")
-	@Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" })
+	@Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control", @readonly = "readonly" })
 	<br />
 	@Html.Label("Category Name")
 	@Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control"})

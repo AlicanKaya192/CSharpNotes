@@ -9,5 +9,6 @@ namespace BusinessLayer.Abstract
 {
     public interface ICustomerService : IGenericService<Customer> // Interface for customer-related business operations
     {
+        List<Customer> GetCustomersListWithJob();
     }
 }
