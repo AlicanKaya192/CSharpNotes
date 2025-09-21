@@ -3,11 +3,30 @@
 # 📚 C# Notları ve Uygulama Örnekleri  
 
 💻 **Kapsamlı C# Kaynakları, Uygulama Örnekleri ve Açık Kaynak Projeler**  
-🎯 Başlangıçtan ileri seviyeye adım adım öğrenme rehberi
+🎯 Başlangıçtan ileri seviyeye adım adım öğrenme rehberi  
 
-![C# Banner](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
+<!-- Banner Satırı -->
+<p>
+  <!-- C# -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="120" style="margin:10px;"/>
+  <!-- ASP.NET -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET Logo" width="120" style="margin:10px;"/>
+  <!-- .NET Framework -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET Framework Logo" width="120" style="margin:10px;"/>
+  <!-- MSSQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_SQL_Server_Logo.svg" alt="MSSQL Logo" width="120" style="margin:10px;"/>
+  <!-- HTML5 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5 Logo" width="120" style="margin:10px;"/>
+  <!-- CSS3 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 Logo" width="120" style="margin:10px;"/>
+  <!-- JavaScript -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="120" style="margin:10px;"/>
+  <!-- Tailwind CSS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" width="120" style="margin:10px;"/>
+</p>
 
 </div>
+
 
 ---
 
